@@ -1,0 +1,6826 @@
+{
+ "about": [
+  {
+   "t": "img",
+   "src": "2025/03/about-us.jpg",
+   "alt": "About Us"
+  },
+  {
+   "t": "h1",
+   "text": "About Elite Detailing"
+  },
+  {
+   "t": "p",
+   "text": "Count on our certified experts for premium car care services, including detailing, PPF installation, paintless dent repair, polishing, windshield protection, window tinting, ceramic coating, and waterless car wash, powered by world-class brands like XPEL, PURE PPF, FEYNLAB, and Modesta."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-logo.png",
+   "alt": "XPEL logo"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/pure-ppf-logo.png",
+   "alt": "Pure PPF logo"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/feynlab-logo.png",
+   "alt": "Feynlab Logo"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/modesta-logo.png",
+   "alt": "Modesta Logo"
+  },
+  {
+   "t": "li",
+   "text": "Certified & Verified Installers for XPEL and PURE PPF, ensuring precision and quality protection."
+  },
+  {
+   "t": "li",
+   "text": "Premium Ceramic Coating & Polish Products from FEYNLAB and Modesta for unmatched shine and durability."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "CAR CARE Services Expertisefor Ultimate Protection\u2014Inside and Out!"
+  },
+  {
+   "t": "p",
+   "text": "Select from our premium car care services or combine them for all-around protection and lasting brilliance."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/services-paint-protection-film.png",
+   "alt": "Services - PPF Paint Protection Film"
+  },
+  {
+   "t": "h3",
+   "text": "(PPF) Paint Protection Film"
+  },
+  {
+   "t": "btn",
+   "text": "VIEW MORE DETAILS",
+   "href": "/services/ppf/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/services-car-detailing.png",
+   "alt": "Services - Car Detailing"
+  },
+  {
+   "t": "h3",
+   "text": "Car Detailing"
+  },
+  {
+   "t": "btn",
+   "text": "VIEW MORE DETAILS",
+   "href": "/services/detailing/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/services-ceramic-coating.png",
+   "alt": "Services - Ceramic Coating"
+  },
+  {
+   "t": "h3",
+   "text": "Ceramic Coating"
+  },
+  {
+   "t": "btn",
+   "text": "VIEW MORE DETAILS",
+   "href": "/services/ceramic/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/services-car-polish.png",
+   "alt": "Services - Car Polishing"
+  },
+  {
+   "t": "h3",
+   "text": "Car Polishing"
+  },
+  {
+   "t": "btn",
+   "text": "VIEW MORE DETAILS",
+   "href": "/services/polishing/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/services-window-tint.png",
+   "alt": "Services - Window Tint"
+  },
+  {
+   "t": "h3",
+   "text": "Window Tint"
+  },
+  {
+   "t": "btn",
+   "text": "VIEW MORE DETAILS",
+   "href": "/services/window-tint/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/services-pdr-paintless-dent-repair.png",
+   "alt": "Services - PDR Paintless Dent Repair"
+  },
+  {
+   "t": "h3",
+   "text": "(PDR) Paintless Dent Repair"
+  },
+  {
+   "t": "btn",
+   "text": "VIEW MORE DETAILS",
+   "href": "/services/pdr/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/services-waterless-car-wash.png",
+   "alt": "Services - Waterless Car Wash"
+  },
+  {
+   "t": "h3",
+   "text": "Waterless Car Wash"
+  },
+  {
+   "t": "btn",
+   "text": "VIEW MORE DETAILS",
+   "href": "/services/waterless-car-wash/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/services-windshield-protection.png",
+   "alt": "Services - Windshield Protection"
+  },
+  {
+   "t": "h3",
+   "text": "Windshield Protection"
+  },
+  {
+   "t": "btn",
+   "text": "VIEW MORE DETAILS",
+   "href": "/services/windshield-protection/"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/services-house-ppf.png",
+   "alt": "Services House PPF"
+  },
+  {
+   "t": "h3",
+   "text": "House PPF"
+  },
+  {
+   "t": "btn",
+   "text": "VIEW MORE DETAILS",
+   "href": "/services/house-ppf/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  }
+ ],
+ "book-your-cars": [
+  {
+   "t": "h1",
+   "text": "Book Your Car\u2019s"
+  }
+ ],
+ "contact": [
+  {
+   "t": "h2",
+   "text": "Contact USHave a question or need assistance?"
+  },
+  {
+   "t": "p",
+   "text": "Whether you need a personalized quote or expert guidance on the best service for your vehicle, our Dubai-based car care specialists are here to assist you."
+  },
+  {
+   "t": "p",
+   "text": "Simply fill out the form or get in touch using the contact details below!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-phone.png",
+   "alt": "icon phone"
+  },
+  {
+   "t": "p",
+   "text": "+971 50 133 9941"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-email.png",
+   "alt": "icon email"
+  },
+  {
+   "t": "p",
+   "text": "contact@elitedetailing.ae"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-address.png",
+   "alt": "icon address"
+  },
+  {
+   "t": "p",
+   "text": "20th St \u2013 Al Barsha \u2013 Al Barsha 3 \u2013 Dubai \u2013 United Arab Emirates"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  }
+ ],
+ "gallery": [
+  {
+   "t": "h1",
+   "text": "Gallery"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-2.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-9.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-10.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-12.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 12"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-13.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 13"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-14.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 14"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/lamborghini-window-tint-service-by-elite-detailing-3.jpg",
+   "alt": "Lamborghini Window Tint Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/lamborghini-window-tint-service-by-elite-detailing-4.jpg",
+   "alt": "Lamborghini Window Tint Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/lamborghini-window-tint-service-by-elite-detailing-5.jpg",
+   "alt": "Lamborghini Window Tint Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-1.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-2.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-3.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-4.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-5.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-5.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-2.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-3.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-1.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-6.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-7.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-8.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-6.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-8.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-9.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-11.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-4.jpg",
+   "alt": "Ceramic Coating 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-1.jpg",
+   "alt": "Ceramic Coating 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-3.jpg",
+   "alt": "Ceramic Coating 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-lamborghini-huracan-11.jpg",
+   "alt": "ELITE Detailing Work Lamborghini Huracan 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-6.jpg",
+   "alt": "Ceramic Coating 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-8.jpg",
+   "alt": "Ceramic Coating 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-9.jpg",
+   "alt": "Ceramic Coating 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-10.jpg",
+   "alt": "Ceramic Coating 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-14.jpg",
+   "alt": "Ceramic Coating 14"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-15.jpg",
+   "alt": "Ceramic Coating 15"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-13.jpg",
+   "alt": "Ceramic Coating 13"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-lamborghini-huracan-2.jpg",
+   "alt": "ELITE Detailing Work Lamborghini Huracan 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-lamborghini-huracan-8.jpg",
+   "alt": "ELITE Detailing Work Lamborghini Huracan 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-lamborghini-huracan-9.jpg",
+   "alt": "ELITE Detailing Work Lamborghini Huracan 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-lamborghini-huracan-10.jpg",
+   "alt": "ELITE Detailing Work Lamborghini Huracan 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-2.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-5.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-6.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-8.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/interior-detailing-and-ppf-service-by-elite-detailing-1.jpg",
+   "alt": "Interior Detailing and PPF Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/interior-detailing-and-ppf-service-by-elite-detailing-4.jpg",
+   "alt": "Interior Detailing and PPF Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/window-tint-elite-detailing-work-2.jpg",
+   "alt": "Window Tint ELITE Detailing Work 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-1.jpg",
+   "alt": "PPF ELITE Detailing Work 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-2.jpg",
+   "alt": "PPF ELITE Detailing Work 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-3.jpg",
+   "alt": "PPF ELITE Detailing Work 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-4.jpg",
+   "alt": "PPF ELITE Detailing Work 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-5.jpg",
+   "alt": "PPF ELITE Detailing Work 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-7.jpg",
+   "alt": "PPF ELITE Detailing Work 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-8.jpg",
+   "alt": "PPF ELITE Detailing Work 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-9.jpg",
+   "alt": "PPF ELITE Detailing Work 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-12.jpg",
+   "alt": "PPF ELITE Detailing Work 12"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-14.jpg",
+   "alt": "PPF ELITE Detailing Work 14"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-15.jpg",
+   "alt": "PPF ELITE Detailing Work 15"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-16.jpg",
+   "alt": "PPF ELITE Detailing Work 16"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-17.jpg",
+   "alt": "PPF ELITE Detailing Work 17"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-elite-detailing-work-18.jpg",
+   "alt": "PPF ELITE Detailing Work 18"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-elite-detailing-work-19.jpg",
+   "alt": "PPF ELITE Detailing Work 19"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-pdr-paintless-dent-repair-6.jpg",
+   "alt": "ELITE Detailing Work PDR Paintless Dent Repair 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-pdr-paintless-dent-repair-2.jpg",
+   "alt": "ELITE Detailing Work PDR Paintless Dent Repair 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-pdr-paintless-dent-repair-1.jpg",
+   "alt": "ELITE Detailing Work PDR Paintless Dent Repair 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/mercedes-c200-interior-detailing-in-dubai-2.jpg",
+   "alt": "Mercedes C200 Interior Detailing in Dubai 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/mercedes-c200-interior-detailing-in-dubai-1.jpg",
+   "alt": "Mercedes C200 Interior Detailing in Dubai 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/mercedes-c200-exterior-detailing-in-dubai-1.jpg",
+   "alt": "Mercedes C200 Exterior Detailing in Dubai 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/mercedes-c200-exterior-detailing-in-dubai-2.jpg",
+   "alt": "Mercedes C200 Exterior Detailing in Dubai 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-1.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-4.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-5.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-7.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-shop-photo-1-1.jpg",
+   "alt": "ELITE Detailing Shop Photo 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-shop-photo-2-1.jpg",
+   "alt": "ELITE Detailing Shop Photo 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-01.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 01"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-02.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 02"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-03.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 03"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-04.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 04"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-05.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 05"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-06.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 06"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-07.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 07"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-pureppf-color-shift-08.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 08"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-02.jpg",
+   "alt": "ELITE Detailing Work Defender 02"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-03.jpg",
+   "alt": "ELITE Detailing Work Defender 03"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-04.jpg",
+   "alt": "ELITE Detailing Work Defender 04"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-05.jpg",
+   "alt": "ELITE Detailing Work Defender 05"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-06.jpg",
+   "alt": "ELITE Detailing Work Defender 06"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-07.jpg",
+   "alt": "ELITE Detailing Work Defender 07"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-01.jpg",
+   "alt": "ELITE Detailing Work Defender 01"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-09.jpg",
+   "alt": "ELITE Detailing Work Defender 09"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-10.jpg",
+   "alt": "ELITE Detailing Work Defender 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-11.jpg",
+   "alt": "ELITE Detailing Work Defender 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-12.jpg",
+   "alt": "ELITE Detailing Work Defender 12"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-13.jpg",
+   "alt": "ELITE Detailing Work Defender 13"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-14.jpg",
+   "alt": "ELITE Detailing Work Defender 14"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-16.jpg",
+   "alt": "ELITE Detailing Work Defender 16"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-15.jpg",
+   "alt": "ELITE Detailing Work Defender 15"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-mercedes-17.jpg",
+   "alt": "ELITE Detailing Work Mercedes 17"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-patrol-18.jpg",
+   "alt": "ELITE Detailing Work Patrol 18"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-patrol-19.jpg",
+   "alt": "ELITE Detailing Work Patrol 19"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-patrol-20.jpg",
+   "alt": "ELITE Detailing Work Patrol 20"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-patrol-21.jpg",
+   "alt": "ELITE Detailing Work Patrol 21"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/gtr-waterless-car-wash-service-by-elite-detailing.jpg",
+   "alt": "GTR Waterless Car Wash Service by Elite Detailing"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-nissan-patrol-4.jpg",
+   "alt": "ELITE Detailing PPF Nissan Patrol 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-nissan-patrol-3.jpg",
+   "alt": "ELITE Detailing PPF Nissan Patrol 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-nissan-patrol-2.jpg",
+   "alt": "ELITE Detailing PPF Nissan Patrol 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-nissan-patrol-1.jpg",
+   "alt": "ELITE Detailing PPF Nissan Patrol 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-pureppf-color-2.jpg",
+   "alt": "ELITE Detailing PurePPF Color 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-pureppf-color-1.jpg",
+   "alt": "ELITE Detailing PurePPF Color 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-jetski-4.jpg",
+   "alt": "ELITE Detailing PPF Jetski 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-jetski-3.jpg",
+   "alt": "ELITE Detailing PPF Jetski 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-jetski-2.jpg",
+   "alt": "ELITE Detailing PPF Jetski 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-jetski-1.jpg",
+   "alt": "ELITE Detailing PPF Jetski 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-02.jpg",
+   "alt": "Elite Detailing Dubai PPF House 02"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-14.jpg",
+   "alt": "House PPF Dubai 14"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-03.jpg",
+   "alt": "Elite Detailing Dubai PPF House 03"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-04.jpg",
+   "alt": "Elite Detailing Dubai PPF House 04"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-10.jpg",
+   "alt": "Elite Detailing Dubai PPF House 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-05.jpg",
+   "alt": "Elite Detailing Dubai PPF House 05"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-07.jpg",
+   "alt": "Elite Detailing Dubai PPF House 07"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-16.jpg",
+   "alt": "House PPF Dubai 16"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-1.jpg",
+   "alt": "House PPF Dubai 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-2.jpg",
+   "alt": "House PPF Dubai 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-3.jpg",
+   "alt": "House PPF Dubai 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-08.jpg",
+   "alt": "Elite Detailing Dubai PPF House 08"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-09.jpg",
+   "alt": "Elite Detailing Dubai PPF House 09"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-4.jpg",
+   "alt": "House PPF Dubai 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-5.jpg",
+   "alt": "House PPF Dubai 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-6.jpg",
+   "alt": "House PPF Dubai 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-7.jpg",
+   "alt": "House PPF Dubai 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-8.jpg",
+   "alt": "House PPF Dubai 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-9.jpg",
+   "alt": "House PPF Dubai 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-01.jpg",
+   "alt": "Elite Detailing Dubai PPF House 01"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-10.jpg",
+   "alt": "House PPF Dubai 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-11.jpg",
+   "alt": "House PPF Dubai 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-12.jpg",
+   "alt": "House PPF Dubai 12"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-13.jpg",
+   "alt": "House PPF Dubai 13"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-work-tesla-black.jpg",
+   "alt": "ELITE Detailing Work Tesla Black"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-byd-shark-6-dmo-1.jpg",
+   "alt": "ELITE Detailing BYD Shark 6 DMO 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-byd-shark-6-dmo-2.jpg",
+   "alt": "ELITE Detailing BYD Shark 6 DMO 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-byd-shark-6-dmo-3.jpg",
+   "alt": "ELITE Detailing BYD Shark 6 DMO 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-interior-lexus-1.jpg",
+   "alt": "ELITE Detailing Interior Lexus 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-interior-lexus-2.jpg",
+   "alt": "ELITE Detailing Interior Lexus 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-work-tesla-white-1.jpg",
+   "alt": "ELITE Detailing Work Tesla White 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-work-tesla-white-2.jpg",
+   "alt": "ELITE Detailing Work Tesla White 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-volkswagen-1.jpg",
+   "alt": "ELITE Detailing Volkswagen 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-volkswagen-2.jpg",
+   "alt": "ELITE Detailing Volkswagen 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-volkswagen-3.pg_.jpg",
+   "alt": "ELITE Detailing Volkswagen 3.pg"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  }
+ ],
+ "privacy-policy": [
+  {
+   "t": "h1",
+   "text": "Privacy Policy"
+  },
+  {
+   "t": "h2",
+   "text": "Who we are"
+  },
+  {
+   "t": "p",
+   "text": "Suggested text: Our website address is: https://elitedetailing.ae."
+  },
+  {
+   "t": "h2",
+   "text": "Comments"
+  },
+  {
+   "t": "p",
+   "text": "Suggested text: When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor\u2019s IP address and browser user agent string to help spam detection."
+  },
+  {
+   "t": "p",
+   "text": "An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment."
+  },
+  {
+   "t": "h2",
+   "text": "Media"
+  },
+  {
+   "t": "p",
+   "text": "Suggested text: If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website."
+  },
+  {
+   "t": "h2",
+   "text": "Cookies"
+  },
+  {
+   "t": "p",
+   "text": "Suggested text: If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year."
+  },
+  {
+   "t": "p",
+   "text": "If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser."
+  },
+  {
+   "t": "p",
+   "text": "When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select \u201cRemember Me\u201d, your login will persist for two weeks. If you log out of your account, the login cookies will be removed."
+  },
+  {
+   "t": "p",
+   "text": "If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day."
+  },
+  {
+   "t": "h2",
+   "text": "Embedded content from other websites"
+  },
+  {
+   "t": "p",
+   "text": "Suggested text: Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website."
+  },
+  {
+   "t": "p",
+   "text": "These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website."
+  },
+  {
+   "t": "h2",
+   "text": "Who we share your data with"
+  },
+  {
+   "t": "p",
+   "text": "Suggested text: If you request a password reset, your IP address will be included in the reset email."
+  },
+  {
+   "t": "h2",
+   "text": "How long we retain your data"
+  },
+  {
+   "t": "p",
+   "text": "Suggested text: If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue."
+  },
+  {
+   "t": "p",
+   "text": "For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information."
+  },
+  {
+   "t": "h2",
+   "text": "What rights you have over your data"
+  },
+  {
+   "t": "p",
+   "text": "Suggested text: If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes."
+  },
+  {
+   "t": "h2",
+   "text": "Where your data is sent"
+  },
+  {
+   "t": "p",
+   "text": "Suggested text: Visitor comments may be checked through an automated spam detection service."
+  }
+ ],
+ "services_ceramic": [
+  {
+   "t": "img",
+   "src": "2025/06/ceramic-coating-services-in-dubai.jpg",
+   "alt": "Ceramic Coating Services in Dubai"
+  },
+  {
+   "t": "h1",
+   "text": "Ceramic Coating Services"
+  },
+  {
+   "t": "p",
+   "text": "24/7 Mirror Shine & Dust Rejection"
+  },
+  {
+   "t": "p",
+   "text": "Keep your vehicle looking flawless with FYNLAB & MODESTA products!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/feynlab-logo.png",
+   "alt": "Feynlab Logo"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/modesta-logo.png",
+   "alt": "Modesta Logo"
+  },
+  {
+   "t": "li",
+   "text": "Revolutionary Self-Healing Ceramic Nano Technology by FYNLAB"
+  },
+  {
+   "t": "li",
+   "text": "Exterior or Interior Ceramic Coating"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Explore Feynlab & Modesta Ceramic Coating"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/feynlab-modesta.png",
+   "alt": "Feynlab & Modesta"
+  },
+  {
+   "t": "h3",
+   "text": "Self-Healing Ceramic Nano Technology"
+  },
+  {
+   "t": "p",
+   "text": "Experience the future of surface protection with FYNLAB\u2019s industry-leading self-healing nano-ceramic technology!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/extreme-durability.png",
+   "alt": "Extreme Durability"
+  },
+  {
+   "t": "h4",
+   "text": "Extreme Durability"
+  },
+  {
+   "t": "p",
+   "text": "A thick, resilient layer provides long-lasting defense against everyday wear and tear."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/stain-contaminant-resistance.png",
+   "alt": "Stain & Contaminant Resistance"
+  },
+  {
+   "t": "h4",
+   "text": "Superior Chemical Resistance"
+  },
+  {
+   "t": "p",
+   "text": "Shields your vehicle from harsh contaminants, road grime, and environmental pollutants."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-uv-heat-protection.png",
+   "alt": "Ultimate UV & Heat Protection"
+  },
+  {
+   "t": "h4",
+   "text": "Ultimate UV & Heat Protection"
+  },
+  {
+   "t": "p",
+   "text": "Prevents oxidation, fading, and damage caused by intense sun exposure."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/brilliant-high-gloss-finish.png",
+   "alt": "Brilliant High Gloss Finish"
+  },
+  {
+   "t": "h4",
+   "text": "Brilliant High-Gloss Finish"
+  },
+  {
+   "t": "p",
+   "text": "Enhances your car\u2019s depth and shine for a sleek, showroom-quality look."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-technology.png",
+   "alt": "Self Healing Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Self-Healing Scratch Resistance"
+  },
+  {
+   "t": "p",
+   "text": "Micro-defects and swirl marks disappear with heat, restoring a flawless finish."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/feynlab-self-healing-coatings.png",
+   "alt": "FEYNLAB Self Healing Coatings"
+  },
+  {
+   "t": "h3",
+   "text": "CERAMIC BY FEYNLAB\u00ae"
+  },
+  {
+   "t": "h4",
+   "text": "The Science of Superior Protection"
+  },
+  {
+   "t": "p",
+   "text": "At FEYNLAB\u00ae, their mission has always been clear: to engineer the most advanced ceramic nano-based protection for automotive surfaces. Every breakthrough they achieve is driven by this relentless pursuit of innovation."
+  },
+  {
+   "t": "h4",
+   "text": "The Science Behind Our Ceramic Coatings"
+  },
+  {
+   "t": "p",
+   "text": "They take a scientific-first approach, analyzing automotive paint and surfaces to develop the best protection and maintenance solutions. Unlike rebranded or reverse-engineered products, every FEYNLAB\u00ae coating is their own proprietary innovation\u2014crafted, tested, and perfected in-house."
+  },
+  {
+   "t": "h4",
+   "text": "Unrivaled Protection & Performance"
+  },
+  {
+   "t": "p",
+   "text": "Rather than relying solely on traditional Silicon Dioxide (SiO\u2082), they take it further by integrating Silicon Nitride (Si\u2083N\u2084) and Silicon Carbide (SiC). This advanced formula delivers:"
+  },
+  {
+   "t": "li",
+   "text": "Exceptionally thick coatings for long-lasting protection"
+  },
+  {
+   "t": "li",
+   "text": "Extreme durability with superior chemical resistance"
+  },
+  {
+   "t": "li",
+   "text": "Intense UV & heat defense to prevent paint degradation"
+  },
+  {
+   "t": "li",
+   "text": "A deep, high-gloss finish for an unmistakable shine"
+  },
+  {
+   "t": "li",
+   "text": "Hydrophobic technology that repels water and dirt, making maintenance effortless"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/feynlab-ceramic-coatings.png",
+   "alt": "FEYNLAB Ceramic Coatings"
+  },
+  {
+   "t": "h3",
+   "text": "Modesta"
+  },
+  {
+   "t": "p",
+   "text": "Modesta is a boutique Japanese manufacturer renowned for producing some of the most exclusive, high-performance paint protection coatings in the industry. Since 2005, Modesta has led the way in innovation, introducing groundbreaking advancements such as mandatory infrared curing, exclusive professional-only products, and global training conferences\u2014many of which have since been adopted across the industry."
+  },
+  {
+   "t": "h4",
+   "text": "Unrivaled Protection & Performance"
+  },
+  {
+   "t": "p",
+   "text": "Modesta coatings are meticulously engineered to enhance shine, gloss, and durability, offering exceptional protection against the elements."
+  },
+  {
+   "t": "h4",
+   "text": "BC-X \u2013 Balanced Protection & Performance"
+  },
+  {
+   "t": "li",
+   "text": "Positioned between BC-08 and the higher-tier coatings, BC-X offers the best cost-to-performance ratio."
+  },
+  {
+   "t": "li",
+   "text": "Enhances gloss and depth on painted surfaces while refreshing and protecting plastics."
+  },
+  {
+   "t": "li",
+   "text": "Superior hydrophobic properties keep your vehicle cleaner for longer with minimal maintenance."
+  },
+  {
+   "t": "h4",
+   "text": "BC-05 \u2013 Advanced Water-Repellent Glass Coating"
+  },
+  {
+   "t": "li",
+   "text": "Forms a highly durable glass coat for unparalleled protection."
+  },
+  {
+   "t": "li",
+   "text": "Creates a deep, candy-like gloss with a three-dimensional molecular structure."
+  },
+  {
+   "t": "li",
+   "text": "Offers up to 10 years of durability and outstanding resistance to contaminants and oxidation."
+  },
+  {
+   "t": "h4",
+   "text": "BC-04 \u2013 Nano-Titanium Glass Coating"
+  },
+  {
+   "t": "li",
+   "text": "A hybrid formula that combines Pure Liquid Glass technology with nano-grade titanium for deeper shine and sharper reflections."
+  },
+  {
+   "t": "li",
+   "text": "Provides prolonged working time, allowing for easier and safer application."
+  },
+  {
+   "t": "h4",
+   "text": "BC-08 \u2013 Neosillica Matrix Coating"
+  },
+  {
+   "t": "li",
+   "text": "Quick and easy application with a three-dimensional matrix structure."
+  },
+  {
+   "t": "li",
+   "text": "Zirconium-infused formula enhances gloss and luster."
+  },
+  {
+   "t": "li",
+   "text": "Acts as a self-sacrificing barrier, protecting against scratches, marring, and environmental damage."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/modesta-coatings.png",
+   "alt": "Modesta Coatings"
+  },
+  {
+   "t": "h2",
+   "text": "Choose the Perfect Ceramic Coatingfor Ultimate Protection\u2014Inside and Out!"
+  },
+  {
+   "t": "p",
+   "text": "Select from our premium ceramic coating services or combine them for all-around protection and lasting brilliance."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/exterior-coating.png",
+   "alt": "Exterior Coating"
+  },
+  {
+   "t": "h3",
+   "text": "Exterior Coating"
+  },
+  {
+   "t": "p",
+   "text": "Designed to resist scratches, dirt, and harsh UV rays, it ensures long-lasting shine and protection. Book your exterior ceramic coating today!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/interior-coating.png",
+   "alt": "Interior Coating"
+  },
+  {
+   "t": "h3",
+   "text": "Interior Coating"
+  },
+  {
+   "t": "p",
+   "text": "Our high-quality ceramic coating shields seats, dashboards, and other surfaces from spills, stains, and UV damage while making cleaning effortless."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/wheel-caliper.png",
+   "alt": "Wheel & Caliper"
+  },
+  {
+   "t": "h3",
+   "text": "Wheel & Caliper"
+  },
+  {
+   "t": "p",
+   "text": "Advanced ceramic wheel coating features a high-density, bonding formula designed for maximum durability and protection."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/window-coating.png",
+   "alt": "Window Coating"
+  },
+  {
+   "t": "h3",
+   "text": "Window Coating"
+  },
+  {
+   "t": "p",
+   "text": "Designed for extreme slickness and superior hydrophobicity, it repels water, dirt, and contaminants, ensuring crystal-clear visibility in all weather conditions."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/plastic-trim.png",
+   "alt": "Plastic & Trim"
+  },
+  {
+   "t": "h3",
+   "text": "Plastic & Trim"
+  },
+  {
+   "t": "p",
+   "text": "Bring your vehicle\u2019s trim back to life in Plastic & Trim, the ultimate solution for revitalizing and protecting faded plastics. Keep your trim looking fresh, sleek, and like new."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ppf-and-vinyl-coating.png",
+   "alt": "PPF and Vinyl Coating"
+  },
+  {
+   "t": "h3",
+   "text": "PPF and Vinyl Coating"
+  },
+  {
+   "t": "p",
+   "text": "Upgrade your vinyl wraps and PPF, it boosts durability, UV resistance, and hydrophobicity while preserving self-healing properties."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Our Ceramic Coatingstreamlined Process"
+  },
+  {
+   "t": "h3",
+   "text": "Surface Preparation"
+  },
+  {
+   "t": "p",
+   "text": "We start by meticulously cleaning and decontaminating the surfaces to remove dust, grime, and impurities, ensuring a flawless foundation for the ceramic coating application."
+  },
+  {
+   "t": "h3",
+   "text": "Application & Curing"
+  },
+  {
+   "t": "p",
+   "text": "Using advanced techniques, we carefully apply the ceramic coating for full coverage and superior adhesion, allowing it to bond effectively for maximum durability."
+  },
+  {
+   "t": "h3",
+   "text": "Quality Check"
+  },
+  {
+   "t": "p",
+   "text": "Our experts conduct a thorough inspection to ensure a seamless, even application with no missed spots, guaranteeing the highest standards of protection and shine."
+  },
+  {
+   "t": "h3",
+   "text": "Final Delivery"
+  },
+  {
+   "t": "p",
+   "text": "Once the coating has cured, we return your vehicle with its stunning, long-lasting protective finish\u2014looking better than ever and ready for the road!"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Discover the Advantagesof Ceramic Coating for Your Car"
+  },
+  {
+   "t": "p",
+   "text": "Think of our ceramic coating as a high-tech shield, like a suit of armor for your car. Our advanced application process forms an invisible yet powerful barrier that enhances both the durability and beauty of your vehicle."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-ceramic-nano-technology.png",
+   "alt": "Self Healing Ceramic Nano Technology"
+  },
+  {
+   "t": "h3",
+   "text": "Self-Healing Ceramic Nano Technology"
+  },
+  {
+   "t": "p",
+   "text": "Engineered to keep dark-colored vehicles looking pristine, FYNLAB\u2019s cutting-edge nano-ceramic coating repairs minor scratches and swirls with heat exposure."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/the-gold-standard-in-coatings.png",
+   "alt": "The Gold Standard in Coatings"
+  },
+  {
+   "t": "h3",
+   "text": "The Gold Standard in Coatings"
+  },
+  {
+   "t": "p",
+   "text": "Proudly made in America, independently tested, and consistently outperforming competitors, FYNLAB is trusted by professionals worldwide."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/cost-effective-investment.png",
+   "alt": "Cost Effective Investment"
+  },
+  {
+   "t": "h3",
+   "text": "Cost-Effective Investment"
+  },
+  {
+   "t": "p",
+   "text": "By minimizing the need for frequent detailing and maintenance, ceramic coating helps you save money in the long run while keeping your car in pristine condition."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/effortless-maintenance.png",
+   "alt": "Effortless Maintenance"
+  },
+  {
+   "t": "h3",
+   "text": "Effortless Maintenance"
+  },
+  {
+   "t": "p",
+   "text": "The nano ceramic coating creates a hydrophobic surface that repels water, dirt, and grime, making cleaning easier than ever and keeping your car looking fresh with minimal effort."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Experience OurUltra-Gloss Ceramic Coating!"
+  },
+  {
+   "t": "p",
+   "text": "Give your car a showroom-worthy shine with our advanced high-gloss ceramic coating. Achieve a sleek, mirror-like finish while ensuring top-tier protection \u2014 only at Elite Detailing!"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Recent Work"
+  },
+  {
+   "t": "p",
+   "text": "See The Ceramic Coating in Action"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-1.jpg",
+   "alt": "Ceramic Coating 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-2.jpg",
+   "alt": "Ceramic Coating 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-3.jpg",
+   "alt": "Ceramic Coating 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-4.jpg",
+   "alt": "Ceramic Coating 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-5.jpg",
+   "alt": "Ceramic Coating 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-6.jpg",
+   "alt": "Ceramic Coating 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-7.jpg",
+   "alt": "Ceramic Coating 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-8.jpg",
+   "alt": "Ceramic Coating 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-9.jpg",
+   "alt": "Ceramic Coating 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-10.jpg",
+   "alt": "Ceramic Coating 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-11.jpg",
+   "alt": "Ceramic Coating 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-12.jpg",
+   "alt": "Ceramic Coating 12"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-14.jpg",
+   "alt": "Ceramic Coating 14"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-15.jpg",
+   "alt": "Ceramic Coating 15"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-13.jpg",
+   "alt": "Ceramic Coating 13"
+  },
+  {
+   "t": "h2",
+   "text": "Vehicle Type / Vehicle Size"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sedan.png",
+   "alt": "sedan"
+  },
+  {
+   "t": "h3",
+   "text": "Sedan"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sports-car.png",
+   "alt": "sports car"
+  },
+  {
+   "t": "h3",
+   "text": "Sports Car"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/suv.png",
+   "alt": "suv"
+  },
+  {
+   "t": "h3",
+   "text": "SUV"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/truck.png",
+   "alt": "truck"
+  },
+  {
+   "t": "h3",
+   "text": "TRUCK"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Why Choose Us forCar Ceramic Coating in Dubai"
+  },
+  {
+   "t": "p",
+   "text": "Specially designed to withstand Dubai\u2019s intense sun and environmental challenges, this protective layer keeps your car looking pristine\u2014much like a diamond repelling dirt and scratches."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/certified-fynlab-modesta-ceramic-coating-installer.png",
+   "alt": "Certified FYNLAB & MODESTA Ceramic Coating Installer"
+  },
+  {
+   "t": "h3",
+   "text": "Certified FYNLAB & MODESTA Ceramic Coating Installer"
+  },
+  {
+   "t": "p",
+   "text": "Our high-quality ceramic coating provides a strong barrier against dirt, pollutants, and road grime, keeping your car\u2019s surface protected from daily wear and tear."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/hassle-free-maintenance-1.png",
+   "alt": "Hassle Free Maintenance"
+  },
+  {
+   "t": "h3",
+   "text": "Hassle-Free Maintenance"
+  },
+  {
+   "t": "p",
+   "text": "Say goodbye to constant scrubbing! With our nano ceramic coating, dirt and contaminants won\u2019t stick, making cleaning effortless and keeping your car looking pristine with minimal effort."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/water-repellent-technology.png",
+   "alt": "Water Repellent Technology"
+  },
+  {
+   "t": "h3",
+   "text": "Water-Repellent Technology"
+  },
+  {
+   "t": "p",
+   "text": "Our advanced hydrophobic coating repels water, preventing stains, bug splatters, and chemical damage. Liquids bead up and slide off easily, ensuring a spotless finish."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/long-lasting-gloss-protection.png",
+   "alt": "Long Lasting Gloss & Protection"
+  },
+  {
+   "t": "h3",
+   "text": "Long-Lasting Gloss & Protection"
+  },
+  {
+   "t": "p",
+   "text": "Designed to preserve your car\u2019s vibrant color and shine, our ceramic coating resists fading, swirl marks, and environmental damage, maintaining a showroom finish for up to seven years!"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  },
+  {
+   "t": "h2",
+   "text": "Enhance & ProtectYour Car with Ceramic Coating!"
+  },
+  {
+   "t": "p",
+   "text": "Whether you need a personalized quote or expert guidance on the best service for your vehicle, our Dubai-based car care specialists are here to assist you."
+  },
+  {
+   "t": "p",
+   "text": "Simply fill out the form or get in touch using the contact details below!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-phone.png",
+   "alt": "icon phone"
+  },
+  {
+   "t": "p",
+   "text": "+971 50 133 9941"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-email.png",
+   "alt": "icon email"
+  },
+  {
+   "t": "p",
+   "text": "contact@elitedetailing.ae"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-address.png",
+   "alt": "icon address"
+  },
+  {
+   "t": "p",
+   "text": "20th St \u2013 Al Barsha \u2013 Al Barsha 3 \u2013 Dubai \u2013 United Arab Emirates"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  }
+ ],
+ "services_detailing": [
+  {
+   "t": "video",
+   "src": "2025/06/elite-detailing-detailing-services.mp4"
+  },
+  {
+   "t": "h1",
+   "text": "Car Detailing Services"
+  },
+  {
+   "t": "p",
+   "text": "Unparalleled Flakes & Reflections"
+  },
+  {
+   "t": "p",
+   "text": "Experience top-tier care and protection for your Car Detailing in Dubai"
+  },
+  {
+   "t": "li",
+   "text": "Exterior Car Detailing"
+  },
+  {
+   "t": "li",
+   "text": "Interior Car Detailing"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Explore Elite Car Detailing"
+  },
+  {
+   "t": "h3",
+   "text": "Professional Exterior Car Detailing"
+  },
+  {
+   "t": "p",
+   "text": "Restore and protect your car\u2019s exterior with a meticulous wash, polish, and treatment. We eliminate dirt, grime, and imperfections, bringing back your paint\u2019s original shine and clarity."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/paint-protection-longevity.png",
+   "alt": "Paint Protection & Longevity"
+  },
+  {
+   "t": "h4",
+   "text": "Paint Protection & Longevity"
+  },
+  {
+   "t": "p",
+   "text": "Dubai\u2019s harsh climate can take a toll on your car\u2019s exterior. Our multi-layer detailing process not only enhances aesthetics but also extends the life of your paintwork, keeping it looking fresh for longer."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/deep-decontamination-1.png",
+   "alt": "Deep Decontamination"
+  },
+  {
+   "t": "h4",
+   "text": "Deep Decontamination"
+  },
+  {
+   "t": "p",
+   "text": "We eliminate harmful contaminants that can degrade your car\u2019s finish over time, ensuritng a cleaner, well-protected surface that stands up to everyday exposure."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/boosts-resale-value.png",
+   "alt": "Boosts Resale Value"
+  },
+  {
+   "t": "h4",
+   "text": "Boosts Resale Value"
+  },
+  {
+   "t": "p",
+   "text": "A well-maintained exterior can significantly increase your vehicle\u2019s resale value. Routine detailing keeps your car in top condition, making it more appealing to potential buyers."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/enhanced-aesthetic-appeal.png",
+   "alt": "Enhanced Aesthetic Appeal"
+  },
+  {
+   "t": "h4",
+   "text": "Enhanced Aesthetic Appeal"
+  },
+  {
+   "t": "p",
+   "text": "A spotless, polished exterior creates a lasting impression. Our expert detailing restores shine and clarity, giving your car a sleek, showroom-worthy finish."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/professional-exterior-car-detailing.png",
+   "alt": "Professional Exterior Car Detailing"
+  },
+  {
+   "t": "h3",
+   "text": "Interior Car Detailing"
+  },
+  {
+   "t": "p",
+   "text": "We deep-clean and sanitize every inch of your vehicle\u2019s interior, including seats, carpets, dashboard, and door panels. Say goodbye to dirt, stains, and odors for a fresh, rejuvenated cabin."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/interior-protection.png",
+   "alt": "Interior Protection"
+  },
+  {
+   "t": "h4",
+   "text": "Interior Protection"
+  },
+  {
+   "t": "p",
+   "text": "Extreme weather conditions can take a toll on your car\u2019s interior. Our professional detailing service applies protective treatments to shield surfaces from sun damage, fading, and premature aging, ensuring long-lasting durability."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/deep-cleaning-decontamination.png",
+   "alt": "Deep Cleaning & Decontamination"
+  },
+  {
+   "t": "h4",
+   "text": "Deep Cleaning & Decontamination"
+  },
+  {
+   "t": "p",
+   "text": "Over time, dust, allergens, and bacteria accumulate in your car\u2019s interior. Our thorough detailing process eliminates harmful contaminants, promoting a healthier and safer environment for you and your passengers."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/preserving-resale-value.png",
+   "alt": "Preserving Resale Value"
+  },
+  {
+   "t": "h4",
+   "text": "Preserving Resale Value"
+  },
+  {
+   "t": "p",
+   "text": "A well-maintained interior significantly boosts your car\u2019s resale value. Regular detailing by Elite Detailing keeps your vehicle looking like new, ensuring it remains a valuable asset."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-comfort-aesthetic-appeal.png",
+   "alt": "Ultimate Comfort & Aesthetic Appeal"
+  },
+  {
+   "t": "h4",
+   "text": "Ultimate Comfort & Aesthetic Appeal"
+  },
+  {
+   "t": "p",
+   "text": "A spotless, fresh-smelling interior enhances your overall driving experience. Our meticulous car detailing in Dubai not only restores cleanliness but also creates a more enjoyable and comfortable ride."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/professional-interior-car-detailing.png",
+   "alt": "Professional Interior Car Detailing"
+  },
+  {
+   "t": "h2",
+   "text": "Our Car Detailingstreamlined Process"
+  },
+  {
+   "t": "h3",
+   "text": "Thorough Surface Preparation"
+  },
+  {
+   "t": "p",
+   "text": "We start by removing dust, grime, and contaminants, creating the perfect foundation for a deep and effective clean."
+  },
+  {
+   "t": "h3",
+   "text": "Comprehensive Washing & Detailing"
+  },
+  {
+   "t": "p",
+   "text": "Our in-depth car cleaning process eliminates dirt, stains, and odors, ensuring both the interior and exterior are flawlessly fresh."
+  },
+  {
+   "t": "h3",
+   "text": "Precision Polishing & Waxing"
+  },
+  {
+   "t": "p",
+   "text": "We meticulously restore your car\u2019s exterior, enhancing its shine and protection with expert polishing and waxing techniques."
+  },
+  {
+   "t": "h3",
+   "text": "Final Quality Check & Delivery"
+  },
+  {
+   "t": "p",
+   "text": "Before handing your vehicle back, we conduct a rigorous quality inspection to ensure it looks immaculate\u2014returning it to you in pristine, better-than-new condition."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Explore the Benefitsof Car Detailing for Your Car"
+  },
+  {
+   "t": "p",
+   "text": "Whether you own a sedan, SUV, or luxury car, our expert team is dedicated to delivering flawless results. With state-of-the-art facilities among the best in Dubai, Elite Detailing is your go-to destination for top-tier car detailing."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/revitalized-appearance.png",
+   "alt": "Revitalized Appearance"
+  },
+  {
+   "t": "h3",
+   "text": "Revitalized Appearance"
+  },
+  {
+   "t": "p",
+   "text": "Our expert detailing restores your car\u2019s original shine by removing dirt, stains, and imperfections through meticulous cleaning, polishing, and protection."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/deep-decontamination.png",
+   "alt": "Deep Decontamination"
+  },
+  {
+   "t": "h3",
+   "text": "Deep Decontamination"
+  },
+  {
+   "t": "p",
+   "text": "We eliminate harmful contaminants that can cause long-term damage, preserving your vehicle\u2019s surfaces and ensuring lasting protection."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/boosted-resale-value.png",
+   "alt": "Boosted Resale Value"
+  },
+  {
+   "t": "h3",
+   "text": "Boosted Resale Value"
+  },
+  {
+   "t": "p",
+   "text": "A well-maintained car commands a higher resale price. Regular detailing keeps your vehicle in prime condition, making it more appealing to potential buyers."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/effortless-maintenance-.png",
+   "alt": "Effortless Maintenance"
+  },
+  {
+   "t": "h3",
+   "text": "Effortless Maintenance"
+  },
+  {
+   "t": "p",
+   "text": "Professional detailing helps protect your car\u2019s surfaces, making routine cleaning easier and reducing the effort needed to keep it looking pristine between sessions."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Book Your CustomizedCar Detailing Service Today!"
+  },
+  {
+   "t": "p",
+   "text": "Give your luxury car the care it deserves with Elite Detailing\u2019s services. Our signature detailing restores your vehicle to a like-new condition with unmatched precision and quality."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Recent Work"
+  },
+  {
+   "t": "p",
+   "text": "See ELITE Detailing Experts in Action"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-01.jpg",
+   "alt": "ELITE Detailing Work Defender 01"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-09.jpg",
+   "alt": "ELITE Detailing Work Defender 09"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-10.jpg",
+   "alt": "ELITE Detailing Work Defender 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-02.jpg",
+   "alt": "ELITE Detailing Work Defender 02"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-03.jpg",
+   "alt": "ELITE Detailing Work Defender 03"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-04.jpg",
+   "alt": "ELITE Detailing Work Defender 04"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-05.jpg",
+   "alt": "ELITE Detailing Work Defender 05"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-06.jpg",
+   "alt": "ELITE Detailing Work Defender 06"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-07.jpg",
+   "alt": "ELITE Detailing Work Defender 07"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-mercedes-17.jpg",
+   "alt": "ELITE Detailing Work Mercedes 17"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-patrol-18.jpg",
+   "alt": "ELITE Detailing Work Patrol 18"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-patrol-19.jpg",
+   "alt": "ELITE Detailing Work Patrol 19"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-patrol-20.jpg",
+   "alt": "ELITE Detailing Work Patrol 20"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-patrol-21.jpg",
+   "alt": "ELITE Detailing Work Patrol 21"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-8.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-7.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-9.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-10.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-11.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-13.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 13"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-14.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 14"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-1.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-3.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-4.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-5.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-2.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-3.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-4.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-5.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-6.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-1.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-11.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-10.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-9.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-lamborghini-huracan-11.jpg",
+   "alt": "ELITE Detailing Work Lamborghini Huracan 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-3.jpg",
+   "alt": "Ceramic Coating 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-2.jpg",
+   "alt": "Ceramic Coating 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-6.jpg",
+   "alt": "Ceramic Coating 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-7.jpg",
+   "alt": "Ceramic Coating 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-8.jpg",
+   "alt": "Ceramic Coating 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-9.jpg",
+   "alt": "Ceramic Coating 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-10.jpg",
+   "alt": "Ceramic Coating 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-11.jpg",
+   "alt": "Ceramic Coating 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-12.jpg",
+   "alt": "Ceramic Coating 12"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-13.jpg",
+   "alt": "Ceramic Coating 13"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-14.jpg",
+   "alt": "Ceramic Coating 14"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ceramic-coating-15.jpg",
+   "alt": "Ceramic Coating 15"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-1.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-2.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-8.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 8"
+  },
+  {
+   "t": "btn",
+   "text": "View More PHOTOS",
+   "href": "/gallery/"
+  },
+  {
+   "t": "h2",
+   "text": "Vehicle Type / Vehicle Size"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sedan.png",
+   "alt": "sedan"
+  },
+  {
+   "t": "h3",
+   "text": "Sedan"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sports-car.png",
+   "alt": "sports car"
+  },
+  {
+   "t": "h3",
+   "text": "Sports Car"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/suv.png",
+   "alt": "suv"
+  },
+  {
+   "t": "h3",
+   "text": "SUV"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/truck.png",
+   "alt": "truck"
+  },
+  {
+   "t": "h3",
+   "text": "TRUCK"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Experience Unmatched Car Detailing & Restoration in Dubai"
+  },
+  {
+   "t": "p",
+   "text": "With unparalleled expertise in automotive care, Elite Detailing is your premier destination for top-tier car detailing services in the UAE. Here\u2019s what makes us stand out from other car detailing companies in Dubai."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/full-vehicle-restoration.png",
+   "alt": "Full Vehicle Restoration"
+  },
+  {
+   "t": "h3",
+   "text": "Full Vehicle Restoration"
+  },
+  {
+   "t": "p",
+   "text": "More than just a deep clean, our expert restoration service rejuvenates your car from the effects of wear, tear, and environmental damage. Using cutting-edge tools and premium products, we restore its original brilliance."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/state-of-the-art-detailing-facility.png",
+   "alt": "State of the Art Detailing Facility"
+  },
+  {
+   "t": "h3",
+   "text": "State-of-the-Art Detailing Facility"
+  },
+  {
+   "t": "p",
+   "text": "Our advanced facility is equipped with industry-leading technology, from high-pressure steam cleaners to precision interior detailing tools, ensuring top-tier care for all vehicle types, including luxury, sports cars, and SUVs."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/tailored-signature-packages.png",
+   "alt": "Tailored Signature Packages"
+  },
+  {
+   "t": "h3",
+   "text": "Tailored Signature Packages"
+  },
+  {
+   "t": "p",
+   "text": "Choose from a range of detailing packages designed for every level of care\u2014whether you need a routine refresh or a complete interior and exterior transformation, we have the perfect solution."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/long-lasting-shine-protection.png",
+   "alt": "Long Lasting Shine & Protection"
+  },
+  {
+   "t": "h3",
+   "text": "Long-Lasting Shine & Protection"
+  },
+  {
+   "t": "p",
+   "text": "Our detailing process includes premium protective coatings that shield your car\u2019s paint from environmental damage while enhancing its gloss. Enjoy a showroom-worthy finish that\u2019s easier to maintain."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  },
+  {
+   "t": "h2",
+   "text": "Don\u2019t miss outUpgrade Your Ride with CAR DETAILING!"
+  },
+  {
+   "t": "p",
+   "text": "Whether you need a personalized quote or expert guidance on the best service for your vehicle, our Dubai-based car care specialists are here to assist you."
+  },
+  {
+   "t": "p",
+   "text": "Simply fill out the form or get in touch using the contact details below!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-phone.png",
+   "alt": "icon phone"
+  },
+  {
+   "t": "p",
+   "text": "+971 50 133 9941"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-email.png",
+   "alt": "icon email"
+  },
+  {
+   "t": "p",
+   "text": "contact@elitedetailing.ae"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-address.png",
+   "alt": "icon address"
+  },
+  {
+   "t": "p",
+   "text": "20th St \u2013 Al Barsha \u2013 Al Barsha 3 \u2013 Dubai \u2013 United Arab Emirates"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  }
+ ],
+ "services_house-ppf": [
+  {
+   "t": "video",
+   "src": "2025/06/house-ppf_2v.mp4"
+  },
+  {
+   "t": "h1",
+   "text": "House PPF Protection"
+  },
+  {
+   "t": "p",
+   "text": "Luxury Protection for the Modern Home"
+  },
+  {
+   "t": "p",
+   "text": "At ELITE Detailing, we\u2019re proud to bring cutting-edge technology\u2014once reserved for luxury cars\u2014into the heart of your home. Introducing House PPF (Paint Protection Film) in Dubai."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-logo.png",
+   "alt": "XPEL logo"
+  },
+  {
+   "t": "li",
+   "text": "Premium-quality protection, Nearly invisible finish"
+  },
+  {
+   "t": "li",
+   "text": "Shields interior surfaces from damage"
+  },
+  {
+   "t": "li",
+   "text": "Preserves the original beauty and design"
+  },
+  {
+   "t": "btn",
+   "text": "Book a Consultation",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Benefits of Home PPF Protection"
+  },
+  {
+   "t": "p",
+   "text": "House PPF is a high-end protective film developed to safeguard delicate surfaces in your home. Originally used in the automotive world to preserve supercars, this advanced film is now trusted to protect everything from kitchen cabinetry and countertops to elevator panels, door trims, and glass features. With self-healing, anti-stain, and fingerprint-resistant properties, PPF provides long-lasting protection\u2014without altering the look or feel of your interiors."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/8-mil-protection.png",
+   "alt": "8 Mil Protection"
+  },
+  {
+   "t": "h4",
+   "text": "Versatile Surface Coverage"
+  },
+  {
+   "t": "p",
+   "text": "Ideal for use on kitchen cabinetry, countertops, elevator panels, door trims, and glass walls."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-technology.png",
+   "alt": "Self Healing Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Self-Healing Properties"
+  },
+  {
+   "t": "p",
+   "text": "Minor scratches and swirls disappear with heat or sunlight, keeping surfaces flawless."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-protection.png",
+   "alt": "Ultimate Protection"
+  },
+  {
+   "t": "h4",
+   "text": "High-End Protective Film"
+  },
+  {
+   "t": "p",
+   "text": "Specially engineered to safeguard delicate home surfaces from damage and wear."
+  },
+  {
+   "t": "img",
+   "src": "2025/06/preserves-aesthetic-integrity.png",
+   "alt": "Preserves Aesthetic Integrity"
+  },
+  {
+   "t": "h4",
+   "text": "Preserves Aesthetic Integrity"
+  },
+  {
+   "t": "p",
+   "text": "Delivers invisible protection without changing the texture, color, or design of your interiors."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/stain-contaminant-resistance.png",
+   "alt": "Stain & Contaminant Resistance"
+  },
+  {
+   "t": "h4",
+   "text": "Anti-Stain & Fingerprint Resistant"
+  },
+  {
+   "t": "p",
+   "text": "Creates a durable barrier that prevents surface damage from abrasions, spills, and daily wear."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/hassle-free-maintenance.png",
+   "alt": "Hassle Free Maintenance"
+  },
+  {
+   "t": "h4",
+   "text": "Long-Lasting Performance"
+  },
+  {
+   "t": "p",
+   "text": "Durable, low-maintenance solution that extends the life and beauty of your surfaces."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR HOUSE TODAY",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-paint-protection-film-in-dubai.png",
+   "alt": "House PPF (Paint Protection Film) in Dubai"
+  },
+  {
+   "t": "h2",
+   "text": "HOME PPF Applicationstreamlined Process"
+  },
+  {
+   "t": "h3",
+   "text": "On-Site Consultation"
+  },
+  {
+   "t": "p",
+   "text": "We assess the target surfaces, measure dimensions, and tailor coverage options to your space."
+  },
+  {
+   "t": "h3",
+   "text": "Surface Preparation"
+  },
+  {
+   "t": "p",
+   "text": "Surfaces are deep-cleaned, decontaminated, and dried to ensure perfect adhesion."
+  },
+  {
+   "t": "h3",
+   "text": "Precision Film Cutting"
+  },
+  {
+   "t": "p",
+   "text": "Using XPEL software and tools, the film is custom-cut to fit each surface with exact precision."
+  },
+  {
+   "t": "h3",
+   "text": "Expert Installation"
+  },
+  {
+   "t": "p",
+   "text": "Certified PPF specialists apply the film using proven techniques for a seamless, bubble-free finish."
+  },
+  {
+   "t": "h3",
+   "text": "Final Quality Check & Aftercare"
+  },
+  {
+   "t": "p",
+   "text": "We inspect the application and provide you with a care guide to maximize longevity and performance."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR HOUSE TODAY",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Why Choose USELITE Detailing Experts in Dubai?"
+  },
+  {
+   "t": "p",
+   "text": "At ELITE Detailing, we bring the same level of elite surface protection once reserved for supercars\u2014right into your home."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/expert-technicians.png",
+   "alt": "Expert Technicians"
+  },
+  {
+   "t": "h3",
+   "text": "Cross-Industry Expertise"
+  },
+  {
+   "t": "p",
+   "text": "We\u2019re pioneers in adapting automotive-grade technology for residential use, bringing years of detailing excellence to home interiors."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/expert-installation-certified-precision.png",
+   "alt": "Expert Installation Certified Precision"
+  },
+  {
+   "t": "h3",
+   "text": "XPEL-Certified Installers"
+  },
+  {
+   "t": "p",
+   "text": "We use only the finest PPF available\u2014XPEL Fusion, known globally for its quality and clarity."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/unmatched-protection-with-a-10-year-warranty.png",
+   "alt": "Unmatched Protection with a 10 Year Warranty"
+  },
+  {
+   "t": "h3",
+   "text": "Luxury-Level Finish"
+  },
+  {
+   "t": "p",
+   "text": "From penthouses to designer homes, our installations meet the highest aesthetic and technical standards."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/complete-protection-tailored-to-your-needs.png",
+   "alt": "Complete Protection Tailored to Your Needs"
+  },
+  {
+   "t": "h3",
+   "text": "Convenience at Your Doorstep"
+  },
+  {
+   "t": "p",
+   "text": "Enjoy full mobile service across Dubai\u2014we bring everything to you for a clean, efficient, and professional experience."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR HOUSE NOW",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Ready to Protect Your Home?XPEL Home PPF protection films"
+  },
+  {
+   "t": "p",
+   "text": "Protect your home like you would a luxury vehicle with precision, elegance, and lasting value."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR HOUSE",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Recent Work"
+  },
+  {
+   "t": "p",
+   "text": "See ELITE Detailing Experts in Action"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-1.jpg",
+   "alt": "House PPF Dubai 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-2.jpg",
+   "alt": "House PPF Dubai 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-3.jpg",
+   "alt": "House PPF Dubai 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-4.jpg",
+   "alt": "House PPF Dubai 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-5.jpg",
+   "alt": "House PPF Dubai 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-6.jpg",
+   "alt": "House PPF Dubai 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-09.jpg",
+   "alt": "Elite Detailing Dubai PPF House 09"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-08.jpg",
+   "alt": "Elite Detailing Dubai PPF House 08"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-7.jpg",
+   "alt": "House PPF Dubai 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-8.jpg",
+   "alt": "House PPF Dubai 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-9.jpg",
+   "alt": "House PPF Dubai 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-01.jpg",
+   "alt": "Elite Detailing Dubai PPF House 01"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-10.jpg",
+   "alt": "House PPF Dubai 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-11.jpg",
+   "alt": "House PPF Dubai 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-12.jpg",
+   "alt": "House PPF Dubai 12"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-13.jpg",
+   "alt": "House PPF Dubai 13"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-15.jpg",
+   "alt": "House PPF Dubai 15"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-03.jpg",
+   "alt": "Elite Detailing Dubai PPF House 03"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-10.jpg",
+   "alt": "Elite Detailing Dubai PPF House 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-05.jpg",
+   "alt": "Elite Detailing Dubai PPF House 05"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-16.jpg",
+   "alt": "House PPF Dubai 16"
+  },
+  {
+   "t": "img",
+   "src": "2025/07/elite-detailing-dubai-ppf-house-02.jpg",
+   "alt": "Elite Detailing Dubai PPF House 02"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/house-ppf-dubai-14.jpg",
+   "alt": "House PPF Dubai 14"
+  },
+  {
+   "t": "btn",
+   "text": "View More PHOTOS",
+   "href": "/gallery/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  },
+  {
+   "t": "h2",
+   "text": "Contact us todayfor a free consultation"
+  },
+  {
+   "t": "p",
+   "text": "Serving all areas of Dubai, your home deserves the ELITE touch."
+  },
+  {
+   "t": "p",
+   "text": "Join the growing number of homeowners using House PPF to safeguard their spaces without sacrificing style."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-phone.png",
+   "alt": "icon phone"
+  },
+  {
+   "t": "p",
+   "text": "+971 50 133 9941"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-email.png",
+   "alt": "icon email"
+  },
+  {
+   "t": "p",
+   "text": "contact@elitedetailing.ae"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-address.png",
+   "alt": "icon address"
+  },
+  {
+   "t": "p",
+   "text": "20th St \u2013 Al Barsha \u2013 Al Barsha 3 \u2013 Dubai \u2013 United Arab Emirates"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR HOUSE",
+   "href": "/book-your-cars/"
+  }
+ ],
+ "services_pdr": [
+  {
+   "t": "img",
+   "src": "2025/06/pdr-paintless-dent-repair-in-dubai-1.jpg",
+   "alt": "PDR Paintless Dent Repair in Dubai"
+  },
+  {
+   "t": "h1",
+   "text": "(PDR) Paintless Dent Repair"
+  },
+  {
+   "t": "p",
+   "text": "Defining Depths & Dimensions"
+  },
+  {
+   "t": "p",
+   "text": "Flawless Dent Removal with Paintless Dent Repair in Dubai"
+  },
+  {
+   "t": "li",
+   "text": "Say goodbye to dents and dings without compromising your car\u2019s original paint!"
+  },
+  {
+   "t": "li",
+   "text": "Advanced paintless dent repair techniques to seamlessly restore your vehicle\u2019s exterior."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Discover the Advantagesof Our Expert Dent Removal Services"
+  },
+  {
+   "t": "p",
+   "text": "Trust our Dubai specialists for precision, efficiency, and outstanding results\u2014book your repair today!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/preserves-original-paint.png",
+   "alt": "Preserves Original Paint"
+  },
+  {
+   "t": "h3",
+   "text": "Preserves Original Paint"
+  },
+  {
+   "t": "p",
+   "text": "Our paintless dent repair technique removes dents without disturbing your car\u2019s factory finish, eliminating the need for repainting or color matching."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/fast-efficient.png",
+   "alt": "Fast & Efficient"
+  },
+  {
+   "t": "h3",
+   "text": "Fast & Efficient"
+  },
+  {
+   "t": "p",
+   "text": "Without the hassle of paint and curing time, our specialized tools allow us to restore your car\u2019s surface quickly, getting you back on the road in no time."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/precision-craftsmanship.png",
+   "alt": "Precision & Craftsmanship"
+  },
+  {
+   "t": "h3",
+   "text": "Precision & Craftsmanship"
+  },
+  {
+   "t": "p",
+   "text": "Our skilled technicians meticulously restore your vehicle\u2019s exterior, ensuring flawless results with expert attention to detail."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/affordable-solution.png",
+   "alt": "Affordable Solution"
+  },
+  {
+   "t": "h3",
+   "text": "Affordable Solution"
+  },
+  {
+   "t": "p",
+   "text": "Avoid costly repainting! Paintless dent repair is a budget-friendly alternative that restores your car\u2019s appearance without breaking the bank."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Our Dentless Repairsstreamlined Process"
+  },
+  {
+   "t": "h3",
+   "text": "Thorough Assessment"
+  },
+  {
+   "t": "p",
+   "text": "We carefully inspect your vehicle to evaluate the size, location, and severity of the dents, ensuring the best repair approach."
+  },
+  {
+   "t": "h3",
+   "text": "Gaining Access"
+  },
+  {
+   "t": "p",
+   "text": "Our technicians strategically access the dented areas using specialized tools while preserving your car\u2019s original paint."
+  },
+  {
+   "t": "h3",
+   "text": "Precision Dent Removal"
+  },
+  {
+   "t": "p",
+   "text": "Using advanced paintless dent repair techniques, we gently restore your car\u2019s surface to its original, flawless condition."
+  },
+  {
+   "t": "h3",
+   "text": "Quality Check & Delivery"
+  },
+  {
+   "t": "p",
+   "text": "A final inspection guarantees a seamless repair before we return your vehicle, looking as good as new!"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "No More HassleDon\u2019t Let Small Dents Ruin Your Ride!"
+  },
+  {
+   "t": "p",
+   "text": "Save time and money with our fast, cost-effective paintless dent removal in Dubai. Book your appointment with Elite Detailing today!"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Recent Work"
+  },
+  {
+   "t": "p",
+   "text": "See The Paintless Dent Repair in Action"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-pdr-paintless-dent-repair-6.jpg",
+   "alt": "ELITE Detailing Work PDR Paintless Dent Repair 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-pdr-paintless-dent-repair-3.jpg",
+   "alt": "ELITE Detailing Work PDR Paintless Dent Repair 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-pdr-paintless-dent-repair-1.jpg",
+   "alt": "ELITE Detailing Work PDR Paintless Dent Repair 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-pdr-paintless-dent-repair-2.jpg",
+   "alt": "ELITE Detailing Work PDR Paintless Dent Repair 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-pdr-paintless-dent-repair-4.jpg",
+   "alt": "ELITE Detailing Work PDR Paintless Dent Repair 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-pdr-paintless-dent-repair-5.jpg",
+   "alt": "ELITE Detailing Work PDR Paintless Dent Repair 5"
+  },
+  {
+   "t": "h2",
+   "text": "Vehicle Type / Vehicle Size"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sedan.png",
+   "alt": "sedan"
+  },
+  {
+   "t": "h3",
+   "text": "Sedan"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sports-car.png",
+   "alt": "sports car"
+  },
+  {
+   "t": "h3",
+   "text": "Sports Car"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/suv.png",
+   "alt": "suv"
+  },
+  {
+   "t": "h3",
+   "text": "SUV"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/truck.png",
+   "alt": "truck"
+  },
+  {
+   "t": "h3",
+   "text": "TRUCK"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Why Choose Us forfor Paintless Dent Repair Dubai"
+  },
+  {
+   "t": "p",
+   "text": "Say goodbye to dents without compromising your car\u2019s original paint. Our highly trained professionals use state-of-the-art techniques to restore your vehicle\u2019s smooth, dent-free appearance."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/expert-paintless-dent-restoration.png",
+   "alt": "Expert Paintless Dent Restoration"
+  },
+  {
+   "t": "h3",
+   "text": "Expert Paintless Dent Restoration"
+  },
+  {
+   "t": "p",
+   "text": "Our advanced dent removal techniques restore your car\u2019s surface without affecting the original paint, eliminating the need for repainting or color matching."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/thorough-inspection-process.png",
+   "alt": "Thorough Inspection Process"
+  },
+  {
+   "t": "h3",
+   "text": "Thorough Inspection Process"
+  },
+  {
+   "t": "p",
+   "text": "Our experts conduct a meticulous assessment to identify all dents, no matter how small, ensuring a seamless and complete repair."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/expert-technicians.png",
+   "alt": "Expert Technicians"
+  },
+  {
+   "t": "h3",
+   "text": "Expert Technicians"
+  },
+  {
+   "t": "p",
+   "text": "With extensive experience and specialized training, our certified professionals deliver precise, high-quality repairs for a flawless, dent-free finish."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/unmatched-customer-care.png",
+   "alt": "Unmatched Customer Care"
+  },
+  {
+   "t": "h3",
+   "text": "Unmatched Customer Care"
+  },
+  {
+   "t": "p",
+   "text": "From consultation to completion, we provide clear communication, personalized service, and timely updates, ensuring a hassle-free experience every step of the way."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  },
+  {
+   "t": "h2",
+   "text": "Let\u2019s talkFlawless Paintless Dent Repair in Dubai"
+  },
+  {
+   "t": "p",
+   "text": "Whether you need a personalized quote or expert guidance on the best service for your vehicle, our Dubai-based car care specialists are here to assist you."
+  },
+  {
+   "t": "p",
+   "text": "Simply fill out the form or get in touch using the contact details below!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-phone.png",
+   "alt": "icon phone"
+  },
+  {
+   "t": "p",
+   "text": "+971 50 133 9941"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-email.png",
+   "alt": "icon email"
+  },
+  {
+   "t": "p",
+   "text": "contact@elitedetailing.ae"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-address.png",
+   "alt": "icon address"
+  },
+  {
+   "t": "p",
+   "text": "20th St \u2013 Al Barsha \u2013 Al Barsha 3 \u2013 Dubai \u2013 United Arab Emirates"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  }
+ ],
+ "services_polishing": [
+  {
+   "t": "video",
+   "src": "2025/06/elite-detailing-website-video-car-polishing.mp4"
+  },
+  {
+   "t": "h1",
+   "text": "Car Polishing Services"
+  },
+  {
+   "t": "p",
+   "text": "Perfecting the Art of Refinement"
+  },
+  {
+   "t": "p",
+   "text": "Engineered for microscopic precision, Abrasive Compounds effectively remove swirls, scratches, and oxidation, restoring a flawless, mirror-like finish to any surface."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/feynlab-logo.png",
+   "alt": "Feynlab Logo"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/modesta-logo.png",
+   "alt": "Modesta Logo"
+  },
+  {
+   "t": "li",
+   "text": "Premium Polishing Compounds with FEYNLAB and Modesta Products"
+  },
+  {
+   "t": "li",
+   "text": "Unlock a vehicle\u2019s true shine with precision effective abrasive compounds"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Explore the Benefitsof ELITE DETAILING Car Polishing in Dubai"
+  },
+  {
+   "t": "p",
+   "text": "We offer top-tier car polishing services in Dubai to protect your vehicle from harsh environmental elements. Our skilled professionals use cutting-edge polishing techniques and premium compounds to enhance your car\u2019s finish while preserving its paint."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/brilliant-shine-restoration.png",
+   "alt": "Brilliant Shine & Restoration"
+  },
+  {
+   "t": "h3",
+   "text": "Brilliant Shine & Restoration"
+  },
+  {
+   "t": "p",
+   "text": "Our expert polishing techniques and premium compounds revive your car\u2019s paint, enhancing its deep, mirror-like shine while providing lasting protection."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/skilled-technicians-flawless-results.png",
+   "alt": "Skilled Technicians, Flawless Results"
+  },
+  {
+   "t": "h3",
+   "text": "Skilled Technicians, Flawless Results"
+  },
+  {
+   "t": "p",
+   "text": "With advanced tools and years of expertise, our professionals handle even the most delicate paints and finishes, ensuring a showroom-quality appearance."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/advanced-paint-protection.png",
+   "alt": "Advanced Paint Protection"
+  },
+  {
+   "t": "h3",
+   "text": "Advanced Paint Protection"
+  },
+  {
+   "t": "p",
+   "text": "We apply high-quality waxes and sealants to create a protective barrier against environmental contaminants, extending the life and vibrance of your vehicle\u2019s paint."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/fast-efficient-service.png",
+   "alt": "Fast & Efficient Service"
+  },
+  {
+   "t": "h3",
+   "text": "Fast & Efficient Service"
+  },
+  {
+   "t": "p",
+   "text": "We respect your time, delivering top-tier car polishing with a streamlined, high-efficiency process\u2014so you get stunning results without unnecessary delays."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Our Car Polishingstreamlined Process"
+  },
+  {
+   "t": "h3",
+   "text": "Comprehensive Assessment"
+  },
+  {
+   "t": "p",
+   "text": "We evaluate your car\u2019s condition to determine the best polishing technique for optimal results."
+  },
+  {
+   "t": "h3",
+   "text": "Precision Surface Preparation"
+  },
+  {
+   "t": "p",
+   "text": "We thoroughly clean and prep the surface, removing contaminants to ensure a smooth and flawless polish."
+  },
+  {
+   "t": "h3",
+   "text": "Professional Car Polishing"
+  },
+  {
+   "t": "p",
+   "text": "Using advanced compounds and techniques, we restore shine, eliminate imperfections, and enhance your car\u2019s finish."
+  },
+  {
+   "t": "h3",
+   "text": "Final Inspection & Handover"
+  },
+  {
+   "t": "p",
+   "text": "Our experts conduct a meticulous quality check before delivering your vehicle, looking better than ever."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Achieve a Showroom Shinewith Expert Car Polishing!"
+  },
+  {
+   "t": "p",
+   "text": "Reveal your car\u2019s true brilliance with our premium polishing services\u2014no hidden fees, just guaranteed quality. Trust Elite Detailing to restore and enhance your vehicle\u2019s finish with precision and care. Book your service today!"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Recent Work"
+  },
+  {
+   "t": "p",
+   "text": "See The Ceramic Coating in Action"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-6.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-2.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-5.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-4.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-3.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-polishing-service-by-elite-detailing-1.jpg",
+   "alt": "Nissan Patrol Safari Polishing Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-polishing-service-by-elite-detailing-2.jpg",
+   "alt": "Nissan Patrol Safari Polishing Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-polishing-service-by-elite-detailing-5.jpg",
+   "alt": "Nissan Patrol Safari Polishing Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-polishing-service-by-elite-detailing-4.jpg",
+   "alt": "Nissan Patrol Safari Polishing Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-polishing-service-by-elite-detailing-3.jpg",
+   "alt": "Nissan Patrol Safari Polishing Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-1.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-11.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-polishing-service-by-elite-detailing-6.jpg",
+   "alt": "Nissan Patrol Safari Polishing Service by Elite Detailing 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-9.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-10.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-9.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-13.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 13"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-14.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 14"
+  },
+  {
+   "t": "btn",
+   "text": "View More PHOTOS",
+   "href": "/gallery/"
+  },
+  {
+   "t": "h2",
+   "text": "Vehicle Type / Vehicle Size"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sedan.png",
+   "alt": "sedan"
+  },
+  {
+   "t": "h3",
+   "text": "Sedan"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sports-car.png",
+   "alt": "sports car"
+  },
+  {
+   "t": "h3",
+   "text": "Sports Car"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/suv.png",
+   "alt": "suv"
+  },
+  {
+   "t": "h3",
+   "text": "SUV"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/truck.png",
+   "alt": "truck"
+  },
+  {
+   "t": "h3",
+   "text": "TRUCK"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Experience UnmatchedCar Polishing Leading Experts in Dubai"
+  },
+  {
+   "t": "p",
+   "text": "With unparalleled expertise in automotive care, Elite Detailing is your premier destination for top-tier car detailing services in the UAE. Here\u2019s what makes us stand out from other car detailing companies in Dubai."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/certified-fynlab-modesta-car-polishing-specialist.png",
+   "alt": "Certified FYNLAB & MODESTA Car Polishing Specialist"
+  },
+  {
+   "t": "h3",
+   "text": "Certified FYNLAB & MODESTA Car Polishing Specialist"
+  },
+  {
+   "t": "p",
+   "text": "Our highly skilled technicians bring years of experience and precision to every car polishing service. Using advanced techniques tailored to your vehicle\u2019s specific needs, we guarantee a flawless, mirror-like finish."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/premium-grade-products-.png",
+   "alt": "Premium Grade Products"
+  },
+  {
+   "t": "h3",
+   "text": "Premium-Grade Products"
+  },
+  {
+   "t": "p",
+   "text": "We use only the finest polishing compounds and waxes from globally trusted brands. These high-quality products not only enhance your car\u2019s shine but also provide a durable protective barrier against scratches, UV damage, and dirt buildup."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/meticulous-attention-to-detail.png",
+   "alt": "Meticulous Attention to Detail"
+  },
+  {
+   "t": "h3",
+   "text": "Meticulous Attention to Detail"
+  },
+  {
+   "t": "p",
+   "text": "Every inch of your vehicle is polished with care, ensuring every curve and surface is enhanced to perfection. Our thorough approach delivers a showroom-quality finish that stands out."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/satisfaction-guaranteed.png",
+   "alt": "Satisfaction Guaranteed"
+  },
+  {
+   "t": "h3",
+   "text": "Satisfaction Guaranteed"
+  },
+  {
+   "t": "p",
+   "text": "We take pride in our work and back our services with a guarantee of excellence. Your satisfaction is our top priority, and we\u2019re committed to delivering results that exceed expectations."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  },
+  {
+   "t": "h2",
+   "text": "Let\u2019s talkHave a question or need assistance?"
+  },
+  {
+   "t": "p",
+   "text": "Whether you need a personalized quote or expert guidance on the best service for your vehicle, our Dubai-based car care specialists are here to assist you."
+  },
+  {
+   "t": "p",
+   "text": "Simply fill out the form or get in touch using the contact details below!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-phone.png",
+   "alt": "icon phone"
+  },
+  {
+   "t": "p",
+   "text": "+971 50 133 9941"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-email.png",
+   "alt": "icon email"
+  },
+  {
+   "t": "p",
+   "text": "contact@elitedetailing.ae"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-address.png",
+   "alt": "icon address"
+  },
+  {
+   "t": "p",
+   "text": "20th St \u2013 Al Barsha \u2013 Al Barsha 3 \u2013 Dubai \u2013 United Arab Emirates"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  }
+ ],
+ "services_ppf": [
+  {
+   "t": "video",
+   "src": "2025/06/elite-detailing-website-video-ppf-services.mp4"
+  },
+  {
+   "t": "h1",
+   "text": "(PPF) Paint Protection Film"
+  },
+  {
+   "t": "p",
+   "text": "Extreme Gloss & Clarity"
+  },
+  {
+   "t": "p",
+   "text": "Protect Your Car with XPEL or Pure PPF Products in Dubai"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-logo.png",
+   "alt": "XPEL logo"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/pure-ppf-logo.png",
+   "alt": "Pure PPF logo"
+  },
+  {
+   "t": "li",
+   "text": "Certified XPEL and Pure PPF Verified installers"
+  },
+  {
+   "t": "li",
+   "text": "5-10 Year warranty"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Explore XPEL Paint Protection Film"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-logo.png",
+   "alt": "XPEL logo"
+  },
+  {
+   "t": "h3",
+   "text": "ULTIMATE PLUS\u2122"
+  },
+  {
+   "t": "p",
+   "text": "Keep Your Car Looking Flawless \u2013 ULTIMATE PLUS delivers superior protection against everyday road threats like gravel, bug acids, and bird droppings. Prevent chips and scratches before they start, so you can drive confidently with a pristine finish."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-technology.png",
+   "alt": "Self Healing Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Self-Healing Technology"
+  },
+  {
+   "t": "p",
+   "text": "Light scratches and swirl marks disappear with advanced topcoat construction, keeping your vehicle looking flawless."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/uv-resistant-clarity.png",
+   "alt": "UV Resistant Clarity"
+  },
+  {
+   "t": "h4",
+   "text": "UV-Resistant Clarity"
+  },
+  {
+   "t": "p",
+   "text": "Designed to resist yellowing from sun exposure, ensuring protected areas remain nearly invisible."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/stain-contaminant-resistance.png",
+   "alt": "Stain & Contaminant Resistance"
+  },
+  {
+   "t": "h4",
+   "text": "Stain & Contaminant Resistance"
+  },
+  {
+   "t": "p",
+   "text": "Built to withstand harsh conditions, preventing stains and preserving long-term clarity."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/hassle-free-maintenance.png",
+   "alt": "Hassle Free Maintenance"
+  },
+  {
+   "t": "h4",
+   "text": "Hassle-Free Maintenance"
+  },
+  {
+   "t": "p",
+   "text": "Easily clean and maintain with XPEL Care Products, specially formulated for paint protection film."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/edge-seal-technology.png",
+   "alt": "Edge Seal Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Edge Seal Technology"
+  },
+  {
+   "t": "p",
+   "text": "A secure bond that prevents lifting, ensuring long-lasting adhesion and durability."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/precision-cut-fit.png",
+   "alt": "Precision Cut Fit"
+  },
+  {
+   "t": "h4",
+   "text": "Precision-Cut Fit"
+  },
+  {
+   "t": "p",
+   "text": "Custom-designed kits provide a seamless application, eliminating the need for cutting near your vehicle\u2019s paint."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/8-mil-protection.png",
+   "alt": "8 Mil Protection"
+  },
+  {
+   "t": "h4",
+   "text": "8 Mil Protection"
+  },
+  {
+   "t": "p",
+   "text": "Delivers powerful defense against scratches, rock chips, and various other hazards, offering long-lasting safeguarding for your vehicle\u2019s paint."
+  },
+  {
+   "t": "p",
+   "text": "Product Lineup: ULTIMATE PLUS, ULTIMATE PLUS 7, ULTIMATE PLUS 10, ULTIMATE PLUS BLACK more info at XPEL Website"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-ultimate-plus.png",
+   "alt": "XPEL ULTIMATE PLUS"
+  },
+  {
+   "t": "h3",
+   "text": "ULTIMATE FUSION\u2122"
+  },
+  {
+   "t": "p",
+   "text": "The Water Warrior \u2013 ULTIMATE FUSION\u2019s advanced hydrophobic topcoat repels water, making surfaces effortless to clean. This crystal-clear, high-gloss, self-healing film offers superior protection against rock chips, scuffs, and light scratches, keeping your vehicle in pristine condition."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/water-repellent.png",
+   "alt": "Water Repellent"
+  },
+  {
+   "t": "h4",
+   "text": "Water Repellent"
+  },
+  {
+   "t": "p",
+   "text": "Repels water, dirt, road grime, and more with a slick, easy-to-clean surface."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-technology.png",
+   "alt": "Self Healing Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Self-Healing"
+  },
+  {
+   "t": "p",
+   "text": "Fine scratches and swirl marks vanish when exposed to heat or sunlight."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-protection.png",
+   "alt": "Ultimate Protection"
+  },
+  {
+   "t": "h4",
+   "text": "Ultimate Protection"
+  },
+  {
+   "t": "p",
+   "text": "Shields against oxidation, insect acids, corrosion, and other contaminants."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/uv-resistant-clarity.png",
+   "alt": "UV Resistant Clarity"
+  },
+  {
+   "t": "h4",
+   "text": "Non-Yellowing"
+  },
+  {
+   "t": "p",
+   "text": "UV-resistant technology prevents discoloration, keeping the film nearly invisible."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/edge-seal-technology.png",
+   "alt": "Edge Seal Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Edge Seal Technology"
+  },
+  {
+   "t": "p",
+   "text": "Ensures long-lasting adhesion and durability for reliable protection."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/hydrophobic-protection.png",
+   "alt": "Hydrophobic Protection"
+  },
+  {
+   "t": "h4",
+   "text": "Hydrophobic Protection"
+  },
+  {
+   "t": "p",
+   "text": "Water, dirt, and grime effortlessly slide off, keeping your vehicle cleaner for a longer period of time."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-ultimate-fusion.png",
+   "alt": "XPEL ULTIMATE FUSION"
+  },
+  {
+   "t": "h3",
+   "text": "STEALTH\u2122"
+  },
+  {
+   "t": "p",
+   "text": "Smooth is Fast \u2013 Whether your vehicle has a matte, frozen, or frosted finish, STEALTH keeps it looking flawless with its self-healing technology. It can also transform glossy paint into a sleek satin look while adding superior protection."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/satin-finish.png",
+   "alt": "Satin Finish"
+  },
+  {
+   "t": "h4",
+   "text": "Satin Finish"
+  },
+  {
+   "t": "p",
+   "text": "Achieves the refined look of factory satin paint while giving gloss paint a bold, modern edge."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-technology.png",
+   "alt": "Self Healing Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Self-Healing"
+  },
+  {
+   "t": "p",
+   "text": "Heat-activated clear coat erases fine scratches and swirl marks effortlessly."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/hassle-free-maintenance.png",
+   "alt": "Hassle Free Maintenance"
+  },
+  {
+   "t": "h4",
+   "text": "Easy Maintenance"
+  },
+  {
+   "t": "p",
+   "text": "Simplifies washing and drying without compromising the matte sheen."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/durable-protection.png",
+   "alt": "Durable Protection"
+  },
+  {
+   "t": "h4",
+   "text": "Durable Protection"
+  },
+  {
+   "t": "p",
+   "text": "Delivers long-lasting defense against road debris, backed by a 5-10 year warranty."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/custom-accents.png",
+   "alt": "Custom Accents"
+  },
+  {
+   "t": "h4",
+   "text": "Custom Accents"
+  },
+  {
+   "t": "p",
+   "text": "Enhances aero components, carbon fiber, factory flares, splitters, and trim with a satin touch."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/defensive-shield.png",
+   "alt": "Defensive Shield"
+  },
+  {
+   "t": "h4",
+   "text": "Defensive Shield"
+  },
+  {
+   "t": "p",
+   "text": "Guards against scratches, rock chips, and other potential hazards, delivering long-lasting protection while maintaining a sleek, stylish look."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-stealth.png",
+   "alt": "XPEL STEALTH"
+  },
+  {
+   "t": "h3",
+   "text": "ARMOR"
+  },
+  {
+   "t": "p",
+   "text": "Built Like a Tank \u2013 ARMOR is an ultra-durable, textured polymer film designed to withstand the toughest terrains and most rugged adventures. With a 23-mil construction, it delivers unmatched protection, mimicking the strength of a spray-on bed liner."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-protection.png",
+   "alt": "Ultimate Protection"
+  },
+  {
+   "t": "h4",
+   "text": "Extreme Protection"
+  },
+  {
+   "t": "p",
+   "text": "Shields against scrapes, scratches, scuffs, and gravel strikes with a tough, textured barrier."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/damage-concealer.png",
+   "alt": "Damage Concealer"
+  },
+  {
+   "t": "h4",
+   "text": "Damage Concealer"
+  },
+  {
+   "t": "p",
+   "text": "Not only prevents new abrasions but also hides existing surface imperfections for a refreshed look."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/hassle-free-maintenance.png",
+   "alt": "Hassle Free Maintenance"
+  },
+  {
+   "t": "h4",
+   "text": "Versatile Coverage"
+  },
+  {
+   "t": "p",
+   "text": "Ideal for door sills, rocker panels, tailgate areas, and other high-impact zones."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/23-mil-thickness.png",
+   "alt": "23 Mil Thickness"
+  },
+  {
+   "t": "h4",
+   "text": "23 Mil Thickness"
+  },
+  {
+   "t": "p",
+   "text": "Engineered for maximum durability, this ultra-thick film provides superior protection against scratches, rock chips, and everyday wear in high-impact areas."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-armor.png",
+   "alt": "XPEL ARMOR"
+  },
+  {
+   "t": "h3",
+   "text": "TRACWRAP\u2122"
+  },
+  {
+   "t": "p",
+   "text": "Ditch the blue tape \u2013 TRACWRAP is the ultimate temporary paint protection film for car enthusiasts who demand reliable coverage on the track or road. Stay focused on the drive while TRACWRAP shields your vehicle from damage."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-protection.png",
+   "alt": "Ultimate Protection"
+  },
+  {
+   "t": "h4",
+   "text": "Durable Defense"
+  },
+  {
+   "t": "p",
+   "text": "Its 8-mil thick urethane film guards against rocks, road debris, bug splatter, and harsh elements."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/hassle-free-maintenance.png",
+   "alt": "Hassle Free Maintenance"
+  },
+  {
+   "t": "h4",
+   "text": "Easy Installation"
+  },
+  {
+   "t": "p",
+   "text": "Designed with an air-channel adhesive, allowing anyone to apply it without special tools or messy solutions."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/quick-removal.png",
+   "alt": "Quick Removal"
+  },
+  {
+   "t": "h4",
+   "text": "Quick Removal"
+  },
+  {
+   "t": "p",
+   "text": "Peels off in one smooth strip, leaving zero sticky residue behind."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/versatile-coverage.png",
+   "alt": "Versatile Coverage"
+  },
+  {
+   "t": "h4",
+   "text": "Versatile Coverage"
+  },
+  {
+   "t": "p",
+   "text": "Adheres to bumpers, side mirrors, and other high-impact areas, keeping your car protected wherever you go."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-tracwrap.png",
+   "alt": "XPEL TRACWRAP"
+  },
+  {
+   "t": "h3",
+   "text": "INTERNATIONAL FILMS"
+  },
+  {
+   "t": "p",
+   "text": "Global Protection \u2013 Wherever you are in the world, XPEL Paint Protection Film delivers unmatched durability and performance. Our top-selling films are available across multiple regions, each designed with unique specifications to meet local demands."
+  },
+  {
+   "t": "h4",
+   "text": "EXO ARMOR"
+  },
+  {
+   "t": "p",
+   "text": "Our most advanced virtually invisible paint protection film with a sleek gloss finish. 7 mil thick, available in Middle East, Latin America, and Asia-Pacific."
+  },
+  {
+   "t": "h4",
+   "text": "XP GLOSS"
+  },
+  {
+   "t": "p",
+   "text": "A high-gloss, self-healing film that defends against scratches and scuffs. 7 mil thick, available in Canada and EU."
+  },
+  {
+   "t": "h4",
+   "text": "MPD"
+  },
+  {
+   "t": "p",
+   "text": "Built for the toughest adventures, this is our thickest heavy-duty film designed for rugged terrains. 11 mil thick, available in China and Asia-Pacific."
+  },
+  {
+   "t": "h4",
+   "text": "ARES"
+  },
+  {
+   "t": "p",
+   "text": "Offers exceptional durability and value, keeping your vehicle looking pristine. 7 mil thick, available in China."
+  },
+  {
+   "t": "h4",
+   "text": "PROTEX LITE"
+  },
+  {
+   "t": "p",
+   "text": "A reliable barrier against rocks, road debris, and the elements. 7 mil thick, available in Asia-Pacific."
+  },
+  {
+   "t": "h4",
+   "text": "LUX"
+  },
+  {
+   "t": "p",
+   "text": "A reliable barrier against rocks, road debris, and the elements. 7 mil thick, available in Asia-Pacific."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-international-films.png",
+   "alt": "XPEL International Films"
+  },
+  {
+   "t": "h2",
+   "text": "Explore Pure PPF Protection Films"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/pure-ppf-logo.png",
+   "alt": "Pure PPF logo"
+  },
+  {
+   "t": "h3",
+   "text": "SOLID Gloss Series"
+  },
+  {
+   "t": "p",
+   "text": "Vibrant Pastel Palette \u2013 Elevate Your Ride with Ultra-Gloss Solid Color Wraps \u2013 Achieve a sleek, pastel-inspired finish that exudes sophistication. Engineered with premium TPU construction, these wraps provide an ultra-smooth, paint-like appearance with soft, refined tones for a truly elegant aesthetic."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-technology.png",
+   "alt": "Self Healing Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Self Healing & Hydrophobic Topcoat"
+  },
+  {
+   "t": "p",
+   "text": "PURE PPF\u2019s Long-Lasting Gloss & Effortless Maintenance \u2013 Featuring a hydrophobic topcoat and self-healing technology, PURE PPF resists wash-induced wear and tear while making upkeep a breeze. Enjoy a sleek, glossy finish that outshines traditional vinyl wraps for years to come!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/satin-finish.png",
+   "alt": "Satin Finish"
+  },
+  {
+   "t": "h4",
+   "text": "Ultra Gloss Finish"
+  },
+  {
+   "t": "p",
+   "text": "Made from advanced Elastic Polyurethane (TPU), PURE PPF delivers a flawless, high-gloss look without the waviness or \u201corange peel\u201d texture found in vinyl wraps. Unlike traditional PVC-based vinyl, our film resists sun damage and wash abrasion, maintaining its pristine appearance over time."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/damage-concealer.png",
+   "alt": "Damage Concealer"
+  },
+  {
+   "t": "h4",
+   "text": "4x Thicker Than Traditional Vinyl"
+  },
+  {
+   "t": "p",
+   "text": "PURE PPF\u2019s TPU construction is four times thicker than standard vinyl, offering unmatched durability. It shields your vehicle from rock chips, deep scratches, and chemical damage, keeping your original paint in showroom condition for years to come."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-protection.png",
+   "alt": "Ultimate Protection"
+  },
+  {
+   "t": "h4",
+   "text": "7 Year Manufacture Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Drive with confidence knowing PURE PPF is backed by a 7-year warranty. We guarantee protection against defects in materials and workmanship under normal use. If any issues arise, we\u2019ll repair or replace the film at no cost within the warranty period."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/pure-ppf-solid-gloss-series.png",
+   "alt": "Pure PPF SOLID Gloss Series"
+  },
+  {
+   "t": "h3",
+   "text": "METALLIC Gloss Series"
+  },
+  {
+   "t": "p",
+   "text": "Unparalleled Flakes & Reflections \u2013 Elevate your vehicle\u2019s appeal with Ultra-Gloss Metallic Wraps, featuring vibrant metallic flakes that enhance color depth and luminosity. Built with advanced TPU construction, these wraps offer a mirror-like gloss, self-healing technology, and stain resistance for long-lasting"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-technology.png",
+   "alt": "Self Healing Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Self Healing & Hydrophobic Topcoat"
+  },
+  {
+   "t": "p",
+   "text": "PURE PPF\u2019s Long-Lasting Gloss & Effortless Maintenance \u2013 Featuring a hydrophobic topcoat and self-healing technology, PURE PPF resists wash-induced wear and tear while making upkeep a breeze. Enjoy a sleek, glossy finish that outshines traditional vinyl wraps for years to come!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/satin-finish.png",
+   "alt": "Satin Finish"
+  },
+  {
+   "t": "h4",
+   "text": "Ultra Gloss Finish"
+  },
+  {
+   "t": "p",
+   "text": "Made from advanced Elastic Polyurethane (TPU), PURE PPF delivers a flawless, high-gloss look without the waviness or \u201corange peel\u201d texture found in vinyl wraps. Unlike traditional PVC-based vinyl, our film resists sun damage and wash abrasion, maintaining its pristine appearance over time."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/damage-concealer.png",
+   "alt": "Damage Concealer"
+  },
+  {
+   "t": "h4",
+   "text": "4x Thicker Than Traditional Vinyl"
+  },
+  {
+   "t": "p",
+   "text": "PURE PPF\u2019s TPU construction is four times thicker than standard vinyl, offering unmatched durability. It shields your vehicle from rock chips, deep scratches, and chemical damage, keeping your original paint in showroom condition for years to come."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-protection.png",
+   "alt": "Ultimate Protection"
+  },
+  {
+   "t": "h4",
+   "text": "7 Year Manufacture Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Drive with confidence knowing PURE PPF is backed by a 7-year warranty. We guarantee protection against defects in materials and workmanship under normal use. If any issues arise, we\u2019ll repair or replace the film at no cost within the warranty period."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/pure-ppf-metallic-gloss-series.png",
+   "alt": "Pure PPF METALLIC Gloss Series"
+  },
+  {
+   "t": "h3",
+   "text": "SATIN & MATTE Series"
+  },
+  {
+   "t": "p",
+   "text": "Smooth Velvet Appearances \u2013 Achieve a modern, refined look with our Matte Series PURE PPF, designed to deliver a smooth satin finish. Engineered with cutting-edge TPU technology, this film not only enhances your car\u2019s aesthetics but also provides superior protection with a soft, muted sheen."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-technology.png",
+   "alt": "Self Healing Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Self Healing & Hydrophobic Topcoat"
+  },
+  {
+   "t": "p",
+   "text": "PURE PPF\u2019s Long-Lasting Gloss & Effortless Maintenance \u2013 Featuring a hydrophobic topcoat and self-healing technology, PURE PPF resists wash-induced wear and tear while making upkeep a breeze. Enjoy a sleek, glossy finish that outshines traditional vinyl wraps for years to come!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/satin-finish.png",
+   "alt": "Satin Finish"
+  },
+  {
+   "t": "h4",
+   "text": "Smooth Satin Finish"
+  },
+  {
+   "t": "p",
+   "text": "Crafted from advanced Elastic Polyurethane (TPU), PURE PPF offers a silky-smooth satin finish without the waviness or \u201corange peel\u201d texture commonly seen in vinyl wraps. This premium film not only enhances your vehicle\u2019s aesthetics but also provides exceptional protection with a soft, muted sheen for a refined, modern look."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/damage-concealer.png",
+   "alt": "Damage Concealer"
+  },
+  {
+   "t": "h4",
+   "text": "4x Thicker Than Traditional Vinyl"
+  },
+  {
+   "t": "p",
+   "text": "PURE PPF\u2019s TPU construction is four times thicker than standard vinyl, offering unmatched durability. It shields your vehicle from rock chips, deep scratches, and chemical damage, keeping your original paint in showroom condition for years to come."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-protection.png",
+   "alt": "Ultimate Protection"
+  },
+  {
+   "t": "h4",
+   "text": "7 Year Manufacture Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Drive with confidence knowing PURE PPF is backed by a 7-year warranty. We guarantee protection against defects in materials and workmanship under normal use. If any issues arise, we\u2019ll repair or replace the film at no cost within the warranty period."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/pure-ppf-satin-matte-series.png",
+   "alt": "Pure PPF SATIN & MATTE Series"
+  },
+  {
+   "t": "h3",
+   "text": "COLOR-SHIFT Series"
+  },
+  {
+   "t": "p",
+   "text": "Defining Depths & Dimensions \u2013 Make a bold statement with Color-Shift Wraps, featuring dynamic hues that transition seamlessly between colors, creating an eye-catching, mesmerizing effect. Infused with metallic flakes, these wraps enhance dimension and brilliance, ensuring your vehicle turns heads from every angle."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-technology.png",
+   "alt": "Self Healing Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Self Healing & Hydrophobic Topcoat"
+  },
+  {
+   "t": "p",
+   "text": "PURE PPF\u2019s Long-Lasting Gloss & Effortless Maintenance \u2013 Featuring a hydrophobic topcoat and self-healing technology, PURE PPF resists wash-induced wear and tear while making upkeep a breeze. Enjoy a sleek, glossy finish that outshines traditional vinyl wraps for years to come!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/satin-finish.png",
+   "alt": "Satin Finish"
+  },
+  {
+   "t": "h4",
+   "text": "Ultra Gloss Finish"
+  },
+  {
+   "t": "p",
+   "text": "Made from advanced Elastic Polyurethane (TPU), PURE PPF delivers a flawless, high-gloss look without the waviness or \u201corange peel\u201d texture found in vinyl wraps. Unlike traditional PVC-based vinyl, our film resists sun damage and wash abrasion, maintaining its pristine appearance over time."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/damage-concealer.png",
+   "alt": "Damage Concealer"
+  },
+  {
+   "t": "h4",
+   "text": "4x Thicker Than Traditional Vinyl"
+  },
+  {
+   "t": "p",
+   "text": "PURE PPF\u2019s TPU construction is four times thicker than standard vinyl, offering unmatched durability. It shields your vehicle from rock chips, deep scratches, and chemical damage, keeping your original paint in showroom condition for years to come."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-protection.png",
+   "alt": "Ultimate Protection"
+  },
+  {
+   "t": "h4",
+   "text": "7 Year Manufacture Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Drive with confidence knowing PURE PPF is backed by a 7-year warranty. We guarantee protection against defects in materials and workmanship under normal use. If any issues arise, we\u2019ll repair or replace the film at no cost within the warranty period."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/pure-ppf-color-shift-series.png",
+   "alt": "Pure PPF COLOR SHIFT Series"
+  },
+  {
+   "t": "h3",
+   "text": "LIQUID Series"
+  },
+  {
+   "t": "p",
+   "text": "A fusion of luxury and innovation \u2013 This series includes stunning shades like Liquid Sapphire, Liquid Red Wine, and Satin Liquid Tungsten Steel, delivering a fluid, high-gloss finish with remarkable depth and intensity."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/self-healing-technology.png",
+   "alt": "Self Healing Technology"
+  },
+  {
+   "t": "h4",
+   "text": "Self Healing & Hydrophobic Topcoat"
+  },
+  {
+   "t": "p",
+   "text": "PURE PPF\u2019s Long-Lasting Gloss & Effortless Maintenance \u2013 Featuring a hydrophobic topcoat and self-healing technology, PURE PPF resists wash-induced wear and tear while making upkeep a breeze. Enjoy a sleek, glossy finish that outshines traditional vinyl wraps for years to come!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/satin-finish.png",
+   "alt": "Satin Finish"
+  },
+  {
+   "t": "h4",
+   "text": "Ultra Gloss Finish"
+  },
+  {
+   "t": "p",
+   "text": "Made from advanced Elastic Polyurethane (TPU), PURE PPF delivers a flawless, high-gloss look without the waviness or \u201corange peel\u201d texture found in vinyl wraps. Unlike traditional PVC-based vinyl, our film resists sun damage and wash abrasion, maintaining its pristine appearance over time."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/damage-concealer.png",
+   "alt": "Damage Concealer"
+  },
+  {
+   "t": "h4",
+   "text": "4x Thicker Than Traditional Vinyl"
+  },
+  {
+   "t": "p",
+   "text": "PURE PPF\u2019s TPU construction is four times thicker than standard vinyl, offering unmatched durability. It shields your vehicle from rock chips, deep scratches, and chemical damage, keeping your original paint in showroom condition for years to come."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-protection.png",
+   "alt": "Ultimate Protection"
+  },
+  {
+   "t": "h4",
+   "text": "7 Year Manufacture Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Drive with confidence knowing PURE PPF is backed by a 7-year warranty. We guarantee protection against defects in materials and workmanship under normal use. If any issues arise, we\u2019ll repair or replace the film at no cost within the warranty period."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/pure-ppf-liquid-series.png",
+   "alt": "Pure PPF LIQUID Series"
+  },
+  {
+   "t": "h2",
+   "text": "Our PPF Applicationstreamlined Process"
+  },
+  {
+   "t": "h3",
+   "text": "Thorough Surface Preparation"
+  },
+  {
+   "t": "p",
+   "text": "We meticulously clean and prep your vehicle, ensuring a dust- and grime-free surface for seamless paint protection film application."
+  },
+  {
+   "t": "h3",
+   "text": "Expert PPF Application"
+  },
+  {
+   "t": "p",
+   "text": "Using advanced techniques, our skilled professionals apply the PPF with precision, guaranteeing full coverage and maximum adhesion."
+  },
+  {
+   "t": "h3",
+   "text": "Comprehensive Quality Check"
+  },
+  {
+   "t": "p",
+   "text": "Every installation undergoes a rigorous inspection to ensure a flawless finish with no imperfections or missed areas."
+  },
+  {
+   "t": "h3",
+   "text": "Seamless Handover"
+  },
+  {
+   "t": "p",
+   "text": "Your vehicle is returned with its new, durable protective layer\u2014looking sleek, safeguarded, and better than ever."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Why Choose USELITE Detailing Experts in Dubai?"
+  },
+  {
+   "t": "p",
+   "text": "With unparalleled expertise in automotive care, Elite Detailing is your premier destination for top-tier car paint protection services in the UAE. Here\u2019s what makes us stand out from other car detailing companies in Dubai."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/expert-installation-certified-precision.png",
+   "alt": "Expert Installation Certified Precision"
+  },
+  {
+   "t": "h3",
+   "text": "Expert Installation, Certified Precision"
+  },
+  {
+   "t": "p",
+   "text": "XPEL & Pure PPF certified and verified installers ensure a flawless application, delivering professional-grade protection you can trust."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/unmatched-protection-with-a-10-year-warranty.png",
+   "alt": "Unmatched Protection with a 10 Year Warranty"
+  },
+  {
+   "t": "h3",
+   "text": "Unmatched Protection with a 5-10 Year Warranty"
+  },
+  {
+   "t": "p",
+   "text": "Enjoy peace of mind with our industry-leading coverage, ensuring long-lasting durability and performance."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/complete-protection-tailored-to-your-needs.png",
+   "alt": "Complete Protection Tailored to Your Needs"
+  },
+  {
+   "t": "h3",
+   "text": "Complete Protection, Tailored to Your Needs"
+  },
+  {
+   "t": "p",
+   "text": "From full-vehicle wraps to targeted coverage, our comprehensive protection options ensure long-lasting durability where it matters most."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Experience Self-Healing PPFXPEL / Pure PPF protection films"
+  },
+  {
+   "t": "p",
+   "text": "Protect your vehicle with advanced technology that erases light scratches and keeps your paint looking flawless."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Recent Work"
+  },
+  {
+   "t": "p",
+   "text": "See ELITE Detailing Experts in Action"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-nissan-patrol-01.jpg",
+   "alt": "ELITE Detailing PPF Nissan Patrol 01"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-nissan-patrol-02.jpg",
+   "alt": "ELITE Detailing PPF Nissan Patrol 02"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-nissan-patrol-03.jpg",
+   "alt": "ELITE Detailing PPF Nissan Patrol 03"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-nissan-patrol-04.jpg",
+   "alt": "ELITE Detailing PPF Nissan Patrol 04"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-11.jpg",
+   "alt": "ELITE Detailing Work Defender 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-12.jpg",
+   "alt": "ELITE Detailing Work Defender 12"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-13.jpg",
+   "alt": "ELITE Detailing Work Defender 13"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-14.jpg",
+   "alt": "ELITE Detailing Work Defender 14"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-16.jpg",
+   "alt": "ELITE Detailing Work Defender 16"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-work-defender-15.jpg",
+   "alt": "ELITE Detailing Work Defender 15"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-pureppf-color-shift-08.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 08"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-07.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 07"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-05.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 05"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-03.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 03"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/elite-detailing-pureppf-color-shift-02.jpg",
+   "alt": "ELITE Detailing PurePPF Color Shift 02"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-pureppf-color-2.jpg",
+   "alt": "ELITE Detailing PurePPF Color 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-pureppf-color-1.jpg",
+   "alt": "ELITE Detailing PurePPF Color 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-elite-detailing-work-18.jpg",
+   "alt": "PPF ELITE Detailing Work 18"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-elite-detailing-work-19.jpg",
+   "alt": "PPF ELITE Detailing Work 19"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-1.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-2.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-3.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-4.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-5.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-6.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/ppf-installation-land-rover-in-dubai-7.jpg",
+   "alt": "PPF Installation Land Rover in Dubai 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-12.jpg",
+   "alt": "PPF ELITE Detailing Work 12"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-14.jpg",
+   "alt": "PPF ELITE Detailing Work 14"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-15.jpg",
+   "alt": "PPF ELITE Detailing Work 15"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-16.jpg",
+   "alt": "PPF ELITE Detailing Work 16"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-17.jpg",
+   "alt": "PPF ELITE Detailing Work 17"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-2.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-1.jpg",
+   "alt": "PPF ELITE Detailing Work 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-2.jpg",
+   "alt": "PPF ELITE Detailing Work 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-3.jpg",
+   "alt": "PPF ELITE Detailing Work 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-10.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/g63-brabus-detailing-service-by-elite-detailing-6.jpg",
+   "alt": "G63 Brabus Detailing Service by Elite Detailing 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/interior-detailing-and-ppf-service-by-elite-detailing-3.jpg",
+   "alt": "Interior Detailing and PPF Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/interior-detailing-and-ppf-service-by-elite-detailing-2.jpg",
+   "alt": "Interior Detailing and PPF Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/interior-detailing-and-ppf-service-by-elite-detailing-1.jpg",
+   "alt": "Interior Detailing and PPF Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/interior-detailing-and-ppf-service-by-elite-detailing-4.jpg",
+   "alt": "Interior Detailing and PPF Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-8.jpg",
+   "alt": "PPF ELITE Detailing Work 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-9.jpg",
+   "alt": "PPF ELITE Detailing Work 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-10.jpg",
+   "alt": "PPF ELITE Detailing Work 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-11.jpg",
+   "alt": "PPF ELITE Detailing Work 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-5.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/ppf-elite-detailing-work-7.jpg",
+   "alt": "PPF ELITE Detailing Work 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-detailing-service-by-elite-detailing-8.jpg",
+   "alt": "Nissan Patrol Safari Detailing Service by Elite Detailing 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-1.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-5.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-7.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/elite-detailing-work-xpel-ppf-lc200-black-8.jpg",
+   "alt": "ELITE Detailing Work XPEL PPF LC200 Black 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-jetski-1.jpg",
+   "alt": "ELITE Detailing PPF Jetski 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-jetski-2.jpg",
+   "alt": "ELITE Detailing PPF Jetski 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-jetski-3.jpg",
+   "alt": "ELITE Detailing PPF Jetski 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/elite-detailing-ppf-jetski-4.jpg",
+   "alt": "ELITE Detailing PPF Jetski 4"
+  },
+  {
+   "t": "btn",
+   "text": "View More PHOTOS",
+   "href": "/gallery/"
+  },
+  {
+   "t": "h2",
+   "text": "Vehicle Type / Vehicle Size"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sedan.png",
+   "alt": "sedan"
+  },
+  {
+   "t": "h3",
+   "text": "Sedan"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sports-car.png",
+   "alt": "sports car"
+  },
+  {
+   "t": "h3",
+   "text": "Sports Car"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/suv.png",
+   "alt": "suv"
+  },
+  {
+   "t": "h3",
+   "text": "SUV"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/truck.png",
+   "alt": "truck"
+  },
+  {
+   "t": "h3",
+   "text": "TRUCK"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  },
+  {
+   "t": "h2",
+   "text": "Don\u2019t miss outUpgrade Your Ride with Custom PPF!"
+  },
+  {
+   "t": "p",
+   "text": "Get tailored paint protection designed specifically for your vehicle."
+  },
+  {
+   "t": "p",
+   "text": "At Elite Detailing, we ensure a seamless PPF application that contours flawlessly to every edge of your vehicle for unmatched coverage and durability."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-phone.png",
+   "alt": "icon phone"
+  },
+  {
+   "t": "p",
+   "text": "+971 50 133 9941"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-email.png",
+   "alt": "icon email"
+  },
+  {
+   "t": "p",
+   "text": "contact@elitedetailing.ae"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-address.png",
+   "alt": "icon address"
+  },
+  {
+   "t": "p",
+   "text": "20th St \u2013 Al Barsha \u2013 Al Barsha 3 \u2013 Dubai \u2013 United Arab Emirates"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  }
+ ],
+ "services_waterless-car-wash": [
+  {
+   "t": "img",
+   "src": "2025/05/waterless-wash-services.jpg",
+   "alt": "Waterless Wash Services"
+  },
+  {
+   "t": "h1",
+   "text": "Waterless CAR Wash Services"
+  },
+  {
+   "t": "p",
+   "text": "Brilliant Shine, Zero Water Waste"
+  },
+  {
+   "t": "p",
+   "text": "Maintain your car\u2019s flawless look with our Waterless Wash solution. Designed to lift dirt safely while preserving PPF and ceramic coatings, it ensures a hydrophobic, high-gloss finish between professional washes."
+  },
+  {
+   "t": "li",
+   "text": "Safe for PPF and ceramic-coated surfaces"
+  },
+  {
+   "t": "li",
+   "text": "It safely removes dust and light debris while enhancing shine"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Explore the Benefitsof ELITE DETAILING WATERLESS CAR WAS in Dubai"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/maximum-shine-no-water-required.png",
+   "alt": "Maximum Shine No Water Required"
+  },
+  {
+   "t": "h3",
+   "text": "Maximum Shine, No Water Required"
+  },
+  {
+   "t": "p",
+   "text": "Clean your car using less water! Our advanced nano technology delivers a brilliant, streak-free shine while conserving resources\u2014an eco-friendly solution that also protects your car\u2019s paint."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/eco-friendly-car-care.png",
+   "alt": "Eco Friendly Car Care"
+  },
+  {
+   "t": "h3",
+   "text": "Eco-Friendly Car Care"
+  },
+  {
+   "t": "p",
+   "text": "Achieve a flawless finish with a fraction of the water. Our innovative formula cleans, shines, and protects your vehicle\u2019s surface while minimizing waste\u2014because great results shouldn\u2019t come at the planet\u2019s expense."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/safe-for-ppf-ceramic-coated.png",
+   "alt": "Safe for PPF & Ceramic Coated"
+  },
+  {
+   "t": "h3",
+   "text": "Safe for PPF & Ceramic Coated"
+  },
+  {
+   "t": "p",
+   "text": "Perfect for quick touch-ups, our Waterless Wash encapsulates dust and dirt for a scratch-free clean. Safe on all surfaces, including PPF and ceramic coatings, it enhances shine while repelling water."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/shine-on-the-go-brilliant-finish.png",
+   "alt": "Shine On the Go Brilliant Finish"
+  },
+  {
+   "t": "h3",
+   "text": "Shine On the Go, Brilliant Finish"
+  },
+  {
+   "t": "p",
+   "text": "Achieve a showroom shine with a water-saving solution designed for sustainability. Nano-enhanced formula cleans, protects, scratch-free clean, and enhances your vehicle\u2019s finish."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Our WATERLESS WASHstreamlined Process"
+  },
+  {
+   "t": "h3",
+   "text": "Thorough Assessment"
+  },
+  {
+   "t": "p",
+   "text": "We begin with a careful evaluation of your vehicle\u2019s condition to determine the best approach for a spotless, scratch-free clean."
+  },
+  {
+   "t": "h3",
+   "text": "Premium Waterless Wash Application"
+  },
+  {
+   "t": "p",
+   "text": "Using advanced SiO2-based technology, we apply high-quality waterless wash formula to safely lift dirt and grime without damaging the paint."
+  },
+  {
+   "t": "h3",
+   "text": "Expert Waterless Cleaning"
+  },
+  {
+   "t": "p",
+   "text": "Our trained professionals meticulously clean your vehicle, ensuring a streak-free, high-gloss finish while preserving existing coatings or PPF."
+  },
+  {
+   "t": "h3",
+   "text": "Final Inspection & Handover"
+  },
+  {
+   "t": "p",
+   "text": "We conduct a detailed quality check to ensure a flawless result before returning your refreshed and protected vehicle to you."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Maintains Your Vehicle\u2019s Shine with Waterless Car Wash"
+  },
+  {
+   "t": "p",
+   "text": "Experience the future of car care with our advanced nano-technology waterless wash. Effortlessly cleanse, enhance, and safeguard your vehicle\u2019s finish\u2014all without wasting a single drop of water."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Recent Work"
+  },
+  {
+   "t": "p",
+   "text": "See The Waterless Car Wash in Action"
+  },
+  {
+   "t": "img",
+   "src": "2025/08/gtr-waterless-car-wash-service-by-elite-detailing.jpg",
+   "alt": "GTR Waterless Car Wash Service by Elite Detailing"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-waterless-car-was-service-by-elite-detailing-1.jpg",
+   "alt": "Mercedes AMG Waterless Car Was Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-3.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-waterless-car-was-service-by-elite-detailing-2.jpg",
+   "alt": "Mercedes AMG Waterless Car Was Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-4.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-5.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-1.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-waterless-car-wash-service-by-elite-detailing-1.jpg",
+   "alt": "Nissan Patrol Safari Waterless Car Wash Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-waterless-car-wash-service-by-elite-detailing-2.jpg",
+   "alt": "Nissan Patrol Safari Waterless Car Wash Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-waterless-car-wash-service-by-elite-detailing-3.jpg",
+   "alt": "Nissan Patrol Safari Waterless Car Wash Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-waterless-car-wash-service-by-elite-detailing-4.jpg",
+   "alt": "Nissan Patrol Safari Waterless Car Wash Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-waterless-car-wash-service-by-elite-detailing-5.jpg",
+   "alt": "Nissan Patrol Safari Waterless Car Wash Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/nissan-patrol-safari-waterless-car-wash-service-by-elite-detailing-6.jpg",
+   "alt": "Nissan Patrol Safari Waterless Car Wash Service by Elite Detailing 6"
+  },
+  {
+   "t": "btn",
+   "text": "View More PHOTOS",
+   "href": "/gallery/"
+  },
+  {
+   "t": "h2",
+   "text": "Vehicle Type / Vehicle Size"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sedan.png",
+   "alt": "sedan"
+  },
+  {
+   "t": "h3",
+   "text": "Sedan"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sports-car.png",
+   "alt": "sports car"
+  },
+  {
+   "t": "h3",
+   "text": "Sports Car"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/suv.png",
+   "alt": "suv"
+  },
+  {
+   "t": "h3",
+   "text": "SUV"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/truck.png",
+   "alt": "truck"
+  },
+  {
+   "t": "h3",
+   "text": "TRUCK"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Experience UnmatchedWATERLESS CAR WAS Experts in Dubai"
+  },
+  {
+   "t": "p",
+   "text": "With unparalleled expertise in automotive care, Elite Detailing is your premier destination for top-tier car detailing services in the UAE. Here\u2019s what makes us stand out from other car detailing companies in Dubai."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/unmatched-expertise.png",
+   "alt": "Unmatched Expertise"
+  },
+  {
+   "t": "h3",
+   "text": "Unmatched Expertise"
+  },
+  {
+   "t": "p",
+   "text": "Our expert technicians has years of experience and precision to every waterless car wash, ensuring a flawless, high-gloss finish."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/premium-grade-products-1-1.png",
+   "alt": "Premium Grade Products"
+  },
+  {
+   "t": "h3",
+   "text": "Premium-Grade Products"
+  },
+  {
+   "t": "p",
+   "text": "We use premium Waterless Wash solutions from globally trusted brands, enhancing your car\u2019s shine while forming a protective barrier against scratches, PPF damage, and dirt buildup."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/meticulous-attention-to-detail-1.png",
+   "alt": "Meticulous Attention to Detail"
+  },
+  {
+   "t": "h3",
+   "text": "Meticulous Attention to Detail"
+  },
+  {
+   "t": "p",
+   "text": "Our meticulous process covers every inch of your vehicle, reducing the risk of swirl marks and imperfections, leaving behind a showroom-quality finish."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/satisfaction-guaranteed-1.png",
+   "alt": "Satisfaction Guaranteed"
+  },
+  {
+   "t": "h3",
+   "text": "Satisfaction Guaranteed"
+  },
+  {
+   "t": "p",
+   "text": "With a commitment to excellence, we stand by our work, guaranteeing satisfaction with every wash."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  },
+  {
+   "t": "h2",
+   "text": "Let\u2019s talkHave a question or need assistance?"
+  },
+  {
+   "t": "p",
+   "text": "Whether you need a personalized quote or expert guidance on the best service for your vehicle, our Dubai-based car care specialists are here to assist you."
+  },
+  {
+   "t": "p",
+   "text": "Simply fill out the form or get in touch using the contact details below!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-phone.png",
+   "alt": "icon phone"
+  },
+  {
+   "t": "p",
+   "text": "+971 50 133 9941"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-email.png",
+   "alt": "icon email"
+  },
+  {
+   "t": "p",
+   "text": "contact@elitedetailing.ae"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-address.png",
+   "alt": "icon address"
+  },
+  {
+   "t": "p",
+   "text": "20th St \u2013 Al Barsha \u2013 Al Barsha 3 \u2013 Dubai \u2013 United Arab Emirates"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  }
+ ],
+ "services_window-tint": [
+  {
+   "t": "video",
+   "src": "2025/06/detailing-video-window-tint-merge.mp4"
+  },
+  {
+   "t": "h1",
+   "text": "WINDOW TINT Services"
+  },
+  {
+   "t": "p",
+   "text": "Ultra High Heat Rejection"
+  },
+  {
+   "t": "p",
+   "text": "Trust our certified experts for XPEL PRIME Window Film installation and long-lasting performance."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-logo.png",
+   "alt": "XPEL logo"
+  },
+  {
+   "t": "li",
+   "text": "Stay cool and comfortable with XPEL PRIME window film."
+  },
+  {
+   "t": "li",
+   "text": "Certified XPEL PRIME Expert Installers on Window Film Protection"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Explore Xpel PRIME Window Film Product Lineup"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-logo.png",
+   "alt": "XPEL logo"
+  },
+  {
+   "t": "h3",
+   "text": "Nano-Ceramic Window Film"
+  },
+  {
+   "t": "p",
+   "text": "Advanced Heat & UV Protection \u2013 Engineered for ultimate comfort and protection, our high-performance nano-ceramic window film helps keep your vehicle cooler while blocking harmful UV rays no matter where the road takes you."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/superior-heat-rejection.png",
+   "alt": "Superior Heat Rejection"
+  },
+  {
+   "t": "h4",
+   "text": "Superior Heat Rejection"
+  },
+  {
+   "t": "p",
+   "text": "A proprietary ceramic blend forms a strong heat barrier, keeping your car\u2019s interior cooler."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/99-uv-protection.png",
+   "alt": "99% UV Protection"
+  },
+  {
+   "t": "h4",
+   "text": "99% UV Protection"
+  },
+  {
+   "t": "p",
+   "text": "Blocks over 99% of harmful UV rays, reducing skin damage and interior fading."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/dark-tint-crystal-clear-view.png",
+   "alt": "Dark Tint, Crystal Clear View"
+  },
+  {
+   "t": "h4",
+   "text": "Dark Tint, Crystal-Clear View"
+  },
+  {
+   "t": "p",
+   "text": "Delivers outstanding performance, even at the darkest VLT levels, without compromising outward visibility."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/zero-signal-interference.png",
+   "alt": "Zero Signal Interference"
+  },
+  {
+   "t": "h4",
+   "text": "Zero Signal Interference"
+  },
+  {
+   "t": "p",
+   "text": "Maintains flawless connectivity for radio, Bluetooth, cellular, and in-cabin WiFi."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/multiple-vlt-options.png",
+   "alt": "Multiple VLT Options"
+  },
+  {
+   "t": "h4",
+   "text": "Multiple VLT Options"
+  },
+  {
+   "t": "p",
+   "text": "Available in various VLT levels, including PRIME XR PLUS, and PRIME XR BLACK to suit your preference, available in 5, 15, 20, 30, 35, 45, 55, and 70 VLTs. The PRIME XR BLUE is available in 70 and 80 VLTs."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/nano-ceramic-window-film.png",
+   "alt": "Nano Ceramic Window Film"
+  },
+  {
+   "t": "h3",
+   "text": "Metallic Window Film"
+  },
+  {
+   "t": "p",
+   "text": "Performance Meets Affordability \u2013 Get the style and comfort you want without exceeding your budget. Our premium metallic window film offers powerful UV protection and a full spectrum of VLT options, making it a perfect choice for any vehicle."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/superior-heat-rejection.png",
+   "alt": "Superior Heat Rejection"
+  },
+  {
+   "t": "h4",
+   "text": "Superior Heat Rejection"
+  },
+  {
+   "t": "p",
+   "text": "Blocks more heat than traditional dyed films, featuring a sleek, slightly reflective finish."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/99-uv-protection.png",
+   "alt": "99% UV Protection"
+  },
+  {
+   "t": "h4",
+   "text": "UV Ray Protection"
+  },
+  {
+   "t": "p",
+   "text": "Rejects over 99% of harmful UV rays to keep your interior cool and protected."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/zero-signal-interference.png",
+   "alt": "Zero Signal Interference"
+  },
+  {
+   "t": "h4",
+   "text": "Uninterrupted Connectivity"
+  },
+  {
+   "t": "p",
+   "text": "Designed to maintain crystal-clear radio, cellular, Bluetooth, and in-cabin WiFi signals."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/oem-color-match.png",
+   "alt": "OEM Color Match"
+  },
+  {
+   "t": "h4",
+   "text": "OEM Color Match"
+  },
+  {
+   "t": "p",
+   "text": "Black tint options seamlessly blend with factory privacy glass and provide long-lasting durability."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/multiple-vlt-options.png",
+   "alt": "Multiple VLT Options"
+  },
+  {
+   "t": "h4",
+   "text": "Customizable VLT Options"
+  },
+  {
+   "t": "p",
+   "text": "Available in 5, 15, 20, 35, and 50 VLTs to suit your style and needs. Upgrade your vehicle with a film that delivers style, protection, and performance in one package!"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/metallic-window-film.png",
+   "alt": "Metallic Window Film"
+  },
+  {
+   "t": "h3",
+   "text": "Dyed Window Film"
+  },
+  {
+   "t": "p",
+   "text": "Comfort, Clarity & UV Protection \u2013 Enhance your driving experience with a window film designed for safety, comfort, and style. Enjoy reduced glare, better temperature control, and superior UV protection\u2014all without compromising signal clarity."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/dark-tint-crystal-clear-view.png",
+   "alt": "Dark Tint, Crystal Clear View"
+  },
+  {
+   "t": "h4",
+   "text": "Glare Reduction"
+  },
+  {
+   "t": "p",
+   "text": "Minimizes harsh sunlight and headlight glare for improved visibility and less eye strain."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/stay-cooler.png",
+   "alt": "Stay Cooler"
+  },
+  {
+   "t": "h4",
+   "text": "Stay Cooler"
+  },
+  {
+   "t": "p",
+   "text": "Blocks heat buildup, keeping your cabin comfortable while helping improve fuel efficiency."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/superior-heat-rejection.png",
+   "alt": "Superior Heat Rejection"
+  },
+  {
+   "t": "h4",
+   "text": "UV Protection"
+  },
+  {
+   "t": "p",
+   "text": "Shields against over 99% of harmful UV rays to protect your skin and preserve your interior."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/zero-signal-interference.png",
+   "alt": "Zero Signal Interference"
+  },
+  {
+   "t": "h4",
+   "text": "Seamless Connectivity"
+  },
+  {
+   "t": "p",
+   "text": "Free of metalized particles, ensuring no interference with radio, cellular, Bluetooth, or WiFi signals."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/multiple-vlt-options.png",
+   "alt": "Multiple VLT Options"
+  },
+  {
+   "t": "h4",
+   "text": "Customizable Tint Levels"
+  },
+  {
+   "t": "p",
+   "text": "Available in 5, 15, 20, 35, 43, 50, 55, 70, and 88 VLTs to suit your preference. Get the perfect blend of style, comfort, and protection with XPEL premium dyed window film!"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/dyed-window-film.png",
+   "alt": "Dyed Window Film"
+  },
+  {
+   "t": "h3",
+   "text": "International Films"
+  },
+  {
+   "t": "p",
+   "text": "Window Tint Tailored for Every Region \u2013 Experience the road like never before with XPEL PRIME. Designed to meet the unique demands of each region, our window films offer superior heat rejection, UV protection, and privacy\u2014so you can find the perfect fit for your vehicle."
+  },
+  {
+   "t": "h4",
+   "text": "PRIME X Series"
+  },
+  {
+   "t": "p",
+   "text": "A nano-ceramic powerhouse providing exceptional heat resistance, maximum UV protection, and a variety of VLT options for enhanced privacy. Available in China."
+  },
+  {
+   "t": "h4",
+   "text": "PRIME AP"
+  },
+  {
+   "t": "p",
+   "text": "A hybrid film that blends advanced heat protection with a full spectrum of VLTs, offering the perfect balance of style and comfort. Available in China."
+  },
+  {
+   "t": "h4",
+   "text": "PRIME GL"
+  },
+  {
+   "t": "p",
+   "text": "Engineered with cutting-edge heat-resistant technology and superior UV protection to maintain a comfortable interior temperature. Available in the Asia-Pacific region."
+  },
+  {
+   "t": "h4",
+   "text": "PRIME AP & ST"
+  },
+  {
+   "t": "p",
+   "text": "Multi-layered innovation at its finest\u2014achieve outstanding heat rejection while maintaining optical clarity. Available in the Asia-Pacific region."
+  },
+  {
+   "t": "h4",
+   "text": "PRIME NR"
+  },
+  {
+   "t": "p",
+   "text": "A classic dyed film designed to block harmful UV rays, reduce glare, and keep your cabin cool. Available in Latin America."
+  },
+  {
+   "t": "p",
+   "text": "Wherever you are, XPEL PRIME has you covered with premium window tint solutions built for your environment."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/international-films.png",
+   "alt": "International Films"
+  },
+  {
+   "t": "h2",
+   "text": "Experience the Benefitsof Window Tint for Your Car"
+  },
+  {
+   "t": "p",
+   "text": "Experience a smooth, hassle-free tinting process with expert results! Upgrade your vehicle with cutting-edge window film technology today!"
+  },
+  {
+   "t": "img",
+   "src": "2026/02/98-heat-rejection.png",
+   "alt": "98% Heat Rejection"
+  },
+  {
+   "t": "h3",
+   "text": "Heat Rejection"
+  },
+  {
+   "t": "p",
+   "text": "Effectively blocks solar heat, enhancing comfort and keeping you cool."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/30-energy-savings.png",
+   "alt": "30% Energy Savings"
+  },
+  {
+   "t": "h3",
+   "text": "Energy Savings"
+  },
+  {
+   "t": "p",
+   "text": "Reduces energy consumption with carbon-negative solutions, helping lower costs."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/99-uv-protection-1.png",
+   "alt": "99% UV Protection"
+  },
+  {
+   "t": "h3",
+   "text": "UV Protection"
+  },
+  {
+   "t": "p",
+   "text": "Shields against 99% of harmful UV rays, protecting interiors and skin."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/95-glare-reduction.png",
+   "alt": "95% Glare Reduction"
+  },
+  {
+   "t": "h3",
+   "text": "Glare Reduction"
+  },
+  {
+   "t": "p",
+   "text": "Minimizes glare from sunlight and bright lights, improving visual comfort."
+  },
+  {
+   "t": "btn",
+   "text": "View XPEL TINT SPECS",
+   "href": "https://www.xpel.com/web-assets/downloads/XPEL_PRIME_spec_sheet_USA_Rev0523.pdf"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Our Window Tintstreamlined Process"
+  },
+  {
+   "t": "h3",
+   "text": "Surface Preparation"
+  },
+  {
+   "t": "p",
+   "text": "We meticulously clean and prep your windows to ensure a flawless, long-lasting application."
+  },
+  {
+   "t": "h3",
+   "text": "Precision Film Installation"
+  },
+  {
+   "t": "p",
+   "text": "Our experts apply the selected VLT window film with precision, ensuring a seamless fit."
+  },
+  {
+   "t": "h3",
+   "text": "Quality Inspection"
+  },
+  {
+   "t": "p",
+   "text": "A thorough check is conducted to guarantee perfect adhesion, clarity, and performance."
+  },
+  {
+   "t": "h3",
+   "text": "Final Delivery"
+  },
+  {
+   "t": "p",
+   "text": "Your vehicle is returned to you with professionally installed, high-performance window tinting for enhanced comfort and protection."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Upgrade Your Vehicle\u2019sSun Protection Today!"
+  },
+  {
+   "t": "p",
+   "text": "Shield your car from the heat with XPEL PRIME Products, an optically clear film designed to block up to 98% of infrared heat. By significantly reducing heat buildup, this advanced window tint keeps your interior cooler and more comfortable, even in extreme temperatures in Dubai."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Recent Work"
+  },
+  {
+   "t": "p",
+   "text": "See The Window Tint Installation"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/lamborghini-window-tint-service-by-elite-detailing-1.jpg",
+   "alt": "Lamborghini Window Tint Service by Elite Detailing 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/lamborghini-window-tint-service-by-elite-detailing-2.jpg",
+   "alt": "Lamborghini Window Tint Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/lamborghini-window-tint-service-by-elite-detailing-3.jpg",
+   "alt": "Lamborghini Window Tint Service by Elite Detailing 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/lamborghini-window-tint-service-by-elite-detailing-4.jpg",
+   "alt": "Lamborghini Window Tint Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/lamborghini-window-tint-service-by-elite-detailing-5.jpg",
+   "alt": "Lamborghini Window Tint Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-2.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/window-tint-elite-detailing-work-1.jpg",
+   "alt": "Window Tint ELITE Detailing Work 1"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/window-tint-elite-detailing-work-2.jpg",
+   "alt": "Window Tint ELITE Detailing Work 2"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-4.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/05/mercedes-amg-detailing-service-by-elite-detailing-5.jpg",
+   "alt": "Mercedes AMG Detailing Service by Elite Detailing 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-3.jpg",
+   "alt": "Window Tint ELITE Detailing Work 3"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-4.jpg",
+   "alt": "Window Tint ELITE Detailing Work 4"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-5.jpg",
+   "alt": "Window Tint ELITE Detailing Work 5"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-6.jpg",
+   "alt": "Window Tint ELITE Detailing Work 6"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-7.jpg",
+   "alt": "Window Tint ELITE Detailing Work 7"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-8.jpg",
+   "alt": "Window Tint ELITE Detailing Work 8"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-9.jpg",
+   "alt": "Window Tint ELITE Detailing Work 9"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-10.jpg",
+   "alt": "Window Tint ELITE Detailing Work 10"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-11.jpg",
+   "alt": "Window Tint ELITE Detailing Work 11"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-12.jpg",
+   "alt": "Window Tint ELITE Detailing Work 12"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-13.jpg",
+   "alt": "Window Tint ELITE Detailing Work 13"
+  },
+  {
+   "t": "img",
+   "src": "2025/06/window-tint-elite-detailing-work-14.jpg",
+   "alt": "Window Tint ELITE Detailing Work 14"
+  },
+  {
+   "t": "btn",
+   "text": "View More PHOTOS",
+   "href": "/gallery/"
+  },
+  {
+   "t": "h2",
+   "text": "Vehicle Type / Vehicle Size"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sedan.png",
+   "alt": "sedan"
+  },
+  {
+   "t": "h3",
+   "text": "Sedan"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sports-car.png",
+   "alt": "sports car"
+  },
+  {
+   "t": "h3",
+   "text": "Sports Car"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/suv.png",
+   "alt": "suv"
+  },
+  {
+   "t": "h3",
+   "text": "SUV"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/truck.png",
+   "alt": "truck"
+  },
+  {
+   "t": "h3",
+   "text": "TRUCK"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Why Choose Us forPremium Car Window Tinting in Dubai"
+  },
+  {
+   "t": "p",
+   "text": "Looking for expert XPEL PRIME installation? Trust our certified professionals to deliver flawless results. Upgrade your vehicle with Dubai\u2019s top-rated window tinting service for enhanced comfort, style, and sun protection!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/certified-xpel-prime-installers.png",
+   "alt": "Certified XPEL PRIME Installers"
+  },
+  {
+   "t": "h3",
+   "text": "Certified XPEL PRIME Installers"
+  },
+  {
+   "t": "p",
+   "text": "Finding skilled professionals for XPEL installation can be challenging, but we\u2019ve got you covered."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/cutting-edge-window-film-technology.png",
+   "alt": "Cutting Edge Window Film Technology"
+  },
+  {
+   "t": "h3",
+   "text": "Cutting-Edge Window Film Technology"
+  },
+  {
+   "t": "p",
+   "text": "Choose from high-quality ceramic and dyed films tailored to your needs."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/long-lasting-durability.png",
+   "alt": "Long Lasting Durability"
+  },
+  {
+   "t": "h3",
+   "text": "Long-Lasting Durability"
+  },
+  {
+   "t": "p",
+   "text": "Enjoy a lifespan of 5 to 10 years, with proper care extending the film\u2019s effectiveness."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/versatile-vlt-options.png",
+   "alt": "Versatile VLT Options"
+  },
+  {
+   "t": "h3",
+   "text": "Versatile VLT Options"
+  },
+  {
+   "t": "p",
+   "text": "Available in 5, 15, 20, 30, 35, 45, 55, 60, 70 and 80 VLTs, ensuring optimal visibility and protection."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  },
+  {
+   "t": "h2",
+   "text": "Maximizes Comfortand UV Protection With Window Tinting!"
+  },
+  {
+   "t": "p",
+   "text": "Whether you need a personalized quote or expert guidance on the best service for your vehicle, our Dubai-based car care specialists are here to assist you."
+  },
+  {
+   "t": "p",
+   "text": "Simply fill out the form or get in touch using the contact details below!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-phone.png",
+   "alt": "icon phone"
+  },
+  {
+   "t": "p",
+   "text": "+971 50 133 9941"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-email.png",
+   "alt": "icon email"
+  },
+  {
+   "t": "p",
+   "text": "contact@elitedetailing.ae"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-address.png",
+   "alt": "icon address"
+  },
+  {
+   "t": "p",
+   "text": "20th St \u2013 Al Barsha \u2013 Al Barsha 3 \u2013 Dubai \u2013 United Arab Emirates"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  }
+ ],
+ "services_windshield-protection": [
+  {
+   "t": "img",
+   "src": "2025/03/windshield-protection-film-installation.jpg",
+   "alt": "Windshield Protection Film Installation"
+  },
+  {
+   "t": "h1",
+   "text": "Windshield Protection"
+  },
+  {
+   "t": "p",
+   "text": "Clear as Crystal, Hard as Diamond"
+  },
+  {
+   "t": "p",
+   "text": "Protect your windshield with superior durability and UV defense. Engineered to resist chips, cracks, and road debris, it\u2019s the ultimate safeguard for a flawless, long-lasting finish."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/xpel-logo.png",
+   "alt": "XPEL logo"
+  },
+  {
+   "t": "li",
+   "text": "Shield your windshield with XPEL\u2019s Windshield Protection Film"
+  },
+  {
+   "t": "li",
+   "text": "Defend against chips, cracks, and road hazards, saving you from costly replacements."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Explore the Benefitsof Windshield Protection in Dubai"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/ultimate-road-defense.png",
+   "alt": "Ultimate Road Defense"
+  },
+  {
+   "t": "h3",
+   "text": "Ultimate Road Defense"
+  },
+  {
+   "t": "p",
+   "text": "Shields your windshield from chips, cracks, and pitting, preserving OEM glass and reducing the need for replacements."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/crystal-clear-visibility.png",
+   "alt": "Crystal Clear Visibility"
+  },
+  {
+   "t": "h3",
+   "text": "Crystal-Clear Visibility"
+  },
+  {
+   "t": "p",
+   "text": "Virtually invisible film ensures optical clarity without distortion."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/uv-protection.png",
+   "alt": "UV Protection"
+  },
+  {
+   "t": "h3",
+   "text": "UV Protection"
+  },
+  {
+   "t": "p",
+   "text": "Blocks 99% of harmful UV rays to prevent sun damage and interior fading."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/effortless-maintenance-1-1.png",
+   "alt": "Effortless Maintenance"
+  },
+  {
+   "t": "h3",
+   "text": "Effortless Maintenance"
+  },
+  {
+   "t": "p",
+   "text": "Enhance gloss, slickness, and water repellency with XPEL\u2019s WPF RESTORE."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Our WindshieldProtection streamlined Process"
+  },
+  {
+   "t": "h3",
+   "text": "Thorough Assessment"
+  },
+  {
+   "t": "p",
+   "text": "Our experts inspect your windshield for any existing damage, ensuring optimal film application."
+  },
+  {
+   "t": "h3",
+   "text": "Professional Windshield Cleaning"
+  },
+  {
+   "t": "p",
+   "text": "We remove all dirt, dust, and contaminants to create a flawless surface for installation."
+  },
+  {
+   "t": "h3",
+   "text": "Expert Film Installation"
+  },
+  {
+   "t": "p",
+   "text": "Using precision techniques, we apply the XPEL Windshield Protection Film for maximum durability and clarity."
+  },
+  {
+   "t": "h3",
+   "text": "Final Inspection & Handover"
+  },
+  {
+   "t": "p",
+   "text": "A meticulous quality check ensures perfect adhesion and protection before returning your vehicle to you."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Unmatched Defense for Every Journey with Windshield Protection Film"
+  },
+  {
+   "t": "p",
+   "text": "Whether you\u2019re cruising through city streets, conquering rugged terrains, or racing at high speeds, our Windshield Protection Film keeps your view clear and your glass shielded from chips, cracks, and debris. Drive confidently, no matter the road ahead."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Recent Work"
+  },
+  {
+   "t": "p",
+   "text": "Windshield Protection Installation"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/photo-46.jpg",
+   "alt": "photo 46"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/photo-47.jpg",
+   "alt": "photo 47"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/photo-48.jpg",
+   "alt": "photo 48"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/photo-49.jpg",
+   "alt": "photo 49"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/photo-50.jpg",
+   "alt": "photo 50"
+  },
+  {
+   "t": "h2",
+   "text": "Vehicle Type / Vehicle Size"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sedan.png",
+   "alt": "sedan"
+  },
+  {
+   "t": "h3",
+   "text": "Sedan"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/sports-car.png",
+   "alt": "sports car"
+  },
+  {
+   "t": "h3",
+   "text": "Sports Car"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/suv.png",
+   "alt": "suv"
+  },
+  {
+   "t": "h3",
+   "text": "SUV"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/truck.png",
+   "alt": "truck"
+  },
+  {
+   "t": "h3",
+   "text": "TRUCK"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "Experience RevolutionaryWindshield Protection Film in Dubai"
+  },
+  {
+   "t": "p",
+   "text": "With unparalleled expertise in automotive care, Elite Detailing is your premier destination for top-tier car detailing services in the UAE. Here\u2019s what makes us stand out from other car detailing companies in Dubai."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/certified-xpel-film-installers.png",
+   "alt": "Certified XPEL Film Installers"
+  },
+  {
+   "t": "h3",
+   "text": "Certified XPEL Film Installers"
+  },
+  {
+   "t": "p",
+   "text": "Our skilled technicians bring years of expertise in precise windshield protection film installation."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/superior-windshield-defense.png",
+   "alt": "Superior Windshield Defense"
+  },
+  {
+   "t": "h3",
+   "text": "Superior Windshield Defense"
+  },
+  {
+   "t": "p",
+   "text": "Provides exceptional protection against rock chips, road debris, and everyday wear, keeping your windshield intact."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/cost-effective-solution.png",
+   "alt": "Cost Effective Solution"
+  },
+  {
+   "t": "h3",
+   "text": "Cost-Effective Solution"
+  },
+  {
+   "t": "p",
+   "text": "Helps prevent costly windshield repairs or replacements, saving you money in the long run."
+  },
+  {
+   "t": "img",
+   "src": "2025/03/long-lasting-durability-1.png",
+   "alt": "Long Lasting Durability"
+  },
+  {
+   "t": "h3",
+   "text": "Long-Lasting Durability"
+  },
+  {
+   "t": "p",
+   "text": "Designed to last between 3 to 5 years, depending on environmental conditions and proper maintenance."
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  },
+  {
+   "t": "h2",
+   "text": "STATE OF THE ART FACILITY"
+  },
+  {
+   "t": "p",
+   "text": "26th St Al Quoz Industrial Area 4 Dubai"
+  },
+  {
+   "t": "h2",
+   "text": "Maximizes ComfortHave a question or need assistance?"
+  },
+  {
+   "t": "p",
+   "text": "Whether you need a personalized quote or expert guidance on the best service for your vehicle, our Dubai-based car care specialists are here to assist you."
+  },
+  {
+   "t": "p",
+   "text": "Simply fill out the form or get in touch using the contact details below!"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-phone.png",
+   "alt": "icon phone"
+  },
+  {
+   "t": "p",
+   "text": "+971 50 133 9941"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-email.png",
+   "alt": "icon email"
+  },
+  {
+   "t": "p",
+   "text": "contact@elitedetailing.ae"
+  },
+  {
+   "t": "img",
+   "src": "2025/03/icon-address.png",
+   "alt": "icon address"
+  },
+  {
+   "t": "p",
+   "text": "20th St \u2013 Al Barsha \u2013 Al Barsha 3 \u2013 Dubai \u2013 United Arab Emirates"
+  },
+  {
+   "t": "btn",
+   "text": "BOOK YOUR CAR\u2019S",
+   "href": "/book-your-cars/"
+  }
+ ],
+ "terms-conditions": [
+  {
+   "t": "h1",
+   "text": "TERMS & CONDITIONS"
+  },
+  {
+   "t": "h2",
+   "text": "Service Authorization"
+  },
+  {
+   "t": "p",
+   "text": "By signing this Job Card, the customer authorizes Elite Detailing to proceed with the selected services as outlined above."
+  },
+  {
+   "t": "h2",
+   "text": "Warranty"
+  },
+  {
+   "t": "li",
+   "text": "Non-Transferable Warranty: Warranty applies only to the original owner and is non-transferable if the vehicle is sold."
+  },
+  {
+   "t": "li",
+   "text": "PPF Warranty: 5 years, covering manufacturer defects only."
+  },
+  {
+   "t": "li",
+   "text": "Window Tint Warranty: Based on selected package: Silver: 3 Years"
+  },
+  {
+   "t": "li",
+   "text": "Gold: 5 Years"
+  },
+  {
+   "t": "li",
+   "text": "Elite Xpel: Lifetime"
+  },
+  {
+   "t": "li",
+   "text": "Ceramic Coating: Requires yearly refresh to maintain warranty."
+  },
+  {
+   "t": "h2",
+   "text": "Warranty Exclusions"
+  },
+  {
+   "t": "p",
+   "text": "Warranty is void if the vehicle is:"
+  },
+  {
+   "t": "li",
+   "text": "Improperly maintained (harsh chemicals, abrasive washing)."
+  },
+  {
+   "t": "li",
+   "text": "Modified (aftermarket parts, wrapping, repainting)."
+  },
+  {
+   "t": "li",
+   "text": "Used in extreme conditions (off-roading, racing, track use)."
+  },
+  {
+   "t": "h2",
+   "text": "Service Completion & Acceptance"
+  },
+  {
+   "t": "li",
+   "text": "The customer is required to inspect and accept the vehicle upon completion of service."
+  },
+  {
+   "t": "li",
+   "text": "Once the vehicle is accepted, no refunds will be issued, and service is deemed completed."
+  },
+  {
+   "t": "h2",
+   "text": "Liability & Responsibility"
+  },
+  {
+   "t": "li",
+   "text": "Elite Detailing is not liable for pre-existing damage to the vehicle."
+  },
+  {
+   "t": "li",
+   "text": "Personal items left in the vehicle are done so at the customer\u2019s own risk."
+  },
+  {
+   "t": "li",
+   "text": "We are not liable for mechanical or electrical failures after service."
+  },
+  {
+   "t": "h2",
+   "text": "Pricing & Payment Terms"
+  },
+  {
+   "t": "li",
+   "text": "Total price is based on selected services and may be adjusted based on the vehicle\u2019s condition."
+  },
+  {
+   "t": "li",
+   "text": "Payment is due upon service completion."
+  },
+  {
+   "t": "li",
+   "text": "Late payments will incur a 5% fee per 7 days."
+  },
+  {
+   "t": "h2",
+   "text": "Cancellations"
+  },
+  {
+   "t": "li",
+   "text": "Cancellations must be made 12 hours in advance"
+  },
+  {
+   "t": "h2",
+   "text": "Privacy"
+  },
+  {
+   "t": "p",
+   "text": "Personal information will be kept confidential and will not be shared with third parties unless required by law."
+  },
+  {
+   "t": "h2",
+   "text": "Dispute Resolution"
+  },
+  {
+   "t": "p",
+   "text": "In the event of a dispute, the customer agrees to resolve it via arbitration in Dubai, UAE, before initiating legal proceedings."
+  }
+ ]
+}
