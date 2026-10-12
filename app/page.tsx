@@ -269,10 +269,10 @@ export default function Home() {
         <div className="wrap">
           <div className="section-head">
             <span className="section-tag">HOW WE WORK</span>
-            <h2>
-              Our 3-Step <span className="text-gradient-red">Precision Workflow</span>
+            <h2 style={{ color: "#ffffff", fontWeight: 800 }}>
+              Our 3-Step Precision Workflow
             </h2>
-            <p>From initial paint depth inspection to final delivery under inspection lights.</p>
+            <p style={{ color: "#dcdce8", fontSize: "17px" }}>From initial paint depth inspection to final delivery under inspection lights.</p>
           </div>
 
           <div className="process-grid">

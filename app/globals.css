@@ -341,10 +341,30 @@ p { margin: 0 0 1.2em; color: var(--muted); }
   background: radial-gradient(circle at 50% 0%, rgba(229, 9, 20, 0.12), transparent 60%);
   pointer-events: none;
 }
-.section-head { text-align: center; max-width: 900px; margin: 0 auto 50px; padding: 0 20px; }
+.section-head { 
+  text-align: center; 
+  max-width: 900px; 
+  margin: 0 auto 50px; 
+  padding: 0 20px; 
+  position: relative;
+  z-index: 2;
+}
+.section-head h2 {
+  color: #ffffff !important;
+  font-weight: 800;
+}
+.section-head p {
+  color: #dcdce8 !important;
+}
 .section-tag {
-  color: var(--red); font-weight: 700; font-size: 12px; letter-spacing: .2em;
-  text-transform: uppercase; margin-bottom: 10px; display: block;
+  color: #ff3b47; 
+  font-weight: 700; 
+  font-size: 12px; 
+  letter-spacing: .2em;
+  text-transform: uppercase; 
+  margin-bottom: 12px; 
+  display: block;
+  text-shadow: 0 0 12px rgba(229, 9, 20, 0.4);
 }
 
 .service-card {
@@ -466,6 +486,11 @@ p { margin: 0 0 1.2em; color: var(--muted); }
   inset: 0;
   background: linear-gradient(180deg, rgba(6,6,8,0.92) 0%, rgba(10,10,14,0.95) 100%);
   pointer-events: none;
+  z-index: 1;
+}
+.process-section .wrap {
+  position: relative;
+  z-index: 2;
 }
 .process-grid {
   display: grid; grid-template-columns: repeat(3, 1fr); gap: 36px; margin: 50px 0 40px;
